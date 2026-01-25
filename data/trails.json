@@ -6,7 +6,11 @@
       "length": 8,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Aegviidu-Kõrvemaa",
       "description": "Kaunis loodusrada Kõrvemaal, mis tutvustab mitmekesist metsa- ja soomaastikku.",
@@ -18,7 +22,12 @@
       "length": 6,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Aegviidu-Kõrvemaa",
       "description": "Populaarne rada ümber Paukjärve, kust saab jätkata Kõnnu suursoole.",
@@ -30,7 +39,11 @@
       "length": 5.5,
       "type": "edasi-tagasi",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Aegviidu-Kõrvemaa",
       "description": "Laudtee läbi suure raba, vaatetorniga. Saab ühendada Paukjärve rajaga (~10 km).",
@@ -42,7 +55,11 @@
       "length": 12,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Aegviidu-Kõrvemaa",
       "description": "12 km pikkune matkarada ooside, järvede ja rabasilmade vahel. Saab valida erineva pikkusega marsruute.",
@@ -54,7 +71,11 @@
       "length": 11,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Põhja-Kõrvemaa",
       "description": "Pikk rabarada Lahemaa/Põhja-Kõrvemaa maastikus, laudteedega läbi suure raba.",
@@ -66,7 +87,12 @@
       "length": 3.5,
       "type": "ring",
       "category": "õpperada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Lahemaa",
       "description": "Eesti populaarseim rabarada. Laudtee, vaatetorn, infotahvlid. Sobib ka lastega.",
@@ -78,7 +104,12 @@
       "length": 7,
       "type": "ring",
       "category": "õpperada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Lahemaa, Juminda",
       "description": "8-kujuline rada Juminda poolsaarel. Majakivi on Eesti kolmas suurim rändrahn. 2 km laudteed.",
@@ -90,7 +121,11 @@
       "length": 10,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Lahemaa",
       "description": "RMK matkarada läbi vaheldusrikka maastiku Lahemaal.",
@@ -102,7 +137,11 @@
       "length": 7,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Lahemaa",
       "description": "Matkarada, mis ühendab Nõmmeveski ja Liiapeksi piirkondi.",
@@ -114,7 +153,11 @@
       "length": 12,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Lahemaa-Kõrvemaa",
       "description": "Osa pikemast RMK matkatee lõigust, mis läbib Harjumaad.",
@@ -126,7 +169,12 @@
       "length": 6.3,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Padise",
       "description": "Mitu erinevat ringi (1,5-6,3 km). Aastaringne kasutus, talvel suusarada.",
@@ -138,7 +186,12 @@
       "length": 7.2,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Pirita",
       "description": "Täielikult valgustatud rajad (6:00-23:00). Mitu ringi: 3,5 km, 3,2 km, 7,2 km. Talvel suusarada.",
@@ -150,7 +203,12 @@
       "length": 15,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Nõmme-Harku",
       "description": "Mitu ringi (1-15 km). Männimetsas, Glehni lossi lähedal. Aastaringne.",
@@ -162,7 +220,12 @@
       "length": 5.7,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Harku",
       "description": "Vaheldusrikas metsarada läbi erinevate metsatüüpide ja raba. Lehtla puhkamiseks.",
@@ -174,7 +237,11 @@
       "length": 8,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Paljassaare",
       "description": "Linnukaitseala ja rannikumaastik. Laudteed ja linnuvaatlustorn.",
@@ -186,7 +253,12 @@
       "length": 9,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Nõmme",
       "description": "Suur ring ümber Pääsküla raba. Vaatetorn, ujuv laudtee (280 m).",
@@ -198,7 +270,11 @@
       "length": 4,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Nõmme",
       "description": "Läbib Pääsküla rabamassiivi, suures osas laudteedel.",
@@ -210,7 +286,12 @@
       "length": 3.4,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Nõmme",
       "description": "Pääsküla raba põhjaosas, linna- ja rabaserva maastikus.",
@@ -222,7 +303,12 @@
       "length": 7,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Saku",
       "description": "Mitu ringi (0,7-7 km). Saku rongijaama lähedal. Osaliselt valgustatud (2,7 km).",
@@ -234,7 +320,12 @@
       "length": 7.5,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Keila",
       "description": "Mitu ringi (3-7,5 km). Aastaringne kasutus.",
@@ -246,7 +337,12 @@
       "length": 5,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Saue",
       "description": "Saue linna terviserajad metsas.",
@@ -258,7 +354,12 @@
       "length": 5,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Jõelähtme",
       "description": "Jõelähtme valla terviserada.",
@@ -270,7 +371,12 @@
       "length": 5.2,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Jüri",
       "description": "Täielikult valgustatud rajad (6:00-23:00). Ringid 1,6 km, 2,6 km, 5,2 km.",
@@ -282,7 +388,11 @@
       "length": 4.7,
       "type": "ring",
       "category": "õpperada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Kuusalu",
       "description": "RMK loodusõpperada infotahvlitega.",
@@ -294,7 +404,11 @@
       "length": 6.5,
       "type": "ring",
       "category": "õpperada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Saue vald",
       "description": "Tutvustab Valgejärve maastikukaitseala. Infotahvlid metsatüüpide kohta.",
@@ -306,7 +420,11 @@
       "length": 2.3,
       "type": "ring",
       "category": "õpperada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Lahemaa, Tsitre",
       "description": "Tutvustab erinevaid puuliike ja pargi ajalugu.",
@@ -318,7 +436,11 @@
       "length": 1.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Aegviidu-Kõrvemaa",
       "description": "Lühike rabarada laudteel.",
@@ -330,7 +452,12 @@
       "length": 2,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Õismäe",
       "description": "Lühike terviserada läbi raba. Aastaringne.",
@@ -342,7 +469,12 @@
       "length": 2.1,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Keila-Joa",
       "description": "Kulgeb mööda Keila jõe kallast. Rippsillad, trepid, mõisavaated.",
@@ -354,7 +486,12 @@
       "length": 3.5,
       "type": "ring",
       "category": "õpperada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Tabasalu",
       "description": "Rannamõisa maastikukaitsealal. Klindiserva vaated, 13 infotahvlit.",
@@ -366,7 +503,12 @@
       "length": 6,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Tabasalu",
       "description": "Mitu ringi (1-6 km). Talvel ka suusarada.",
@@ -378,7 +520,12 @@
       "length": 1.8,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Merimetsa",
       "description": "Valgustatud terviserada (1,2-1,8 km).",
@@ -390,7 +537,12 @@
       "length": 2.3,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Järve",
       "description": "Tallinna kesklinnas männimetsas. Sobib jooksule, kepikõnnile, rattale.",
@@ -402,7 +554,12 @@
       "length": 5,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Viimsi, Rohuneeme",
       "description": "Viimsi valla terviserada (1-5 km).",
@@ -414,7 +571,12 @@
       "length": 1,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Harju-Risti",
       "description": "Hakkepuiduga kaetud rada, kelgumägi, spordiväljak.",
@@ -426,7 +588,11 @@
       "length": 7,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Pirita",
       "description": "Matkarada piki Pirita jõe orgu. Ilus looduslik ala linnas.",
@@ -438,7 +604,11 @@
       "length": 5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Põlvamaa",
       "location": "Meenikunno",
       "description": "Laudtee läbi Meenikunno raba. Vaatetorn ja loodusvaatluskohad.",
@@ -450,7 +620,12 @@
       "length": 6,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Põlvamaa",
       "location": "Taevaskoja",
       "description": "Matkarada piki Ahja jõe orgu. Suur ja Väike Taevaskoda, Emaläte.",
@@ -462,7 +637,11 @@
       "length": 4.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Põlvamaa",
       "location": "Valgesoo",
       "description": "Laudtee läbi Valgesoo raba, mis on Lõuna-Eesti suurim laukaraba.",
@@ -474,7 +653,11 @@
       "length": 3.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Võrumaa",
       "location": "Vastse-Roosa",
       "description": "Loodusrada tutvustab Võrumaa metsade mitmekesisust.",
@@ -486,7 +669,12 @@
       "length": 3,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Võrumaa",
       "location": "Rouge",
       "description": "Loodusrada ümber ilusa Ühtjärve. Kaunid vaated ja puhkekohad.",
@@ -498,7 +686,12 @@
       "length": 2,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Võrumaa",
       "location": "Haanja",
       "description": "Matkarada Eesti kõrgeima punkti ümbruses. Vaatetorn 318 m kõrgusel.",
@@ -510,7 +703,12 @@
       "length": 15,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Valgamaa",
       "location": "Otepää",
       "description": "Eesti talvepealinna terviserajad. Mitu ringi, aastaringne kasutus, talvel suusarajad.",
@@ -522,7 +720,11 @@
       "length": 5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Valgamaa",
       "location": "Otepää, Pühajärve",
       "description": "Kaunis loodusrada ümber Pühajärve. Infotahvlid ja puhkekohad.",
@@ -534,7 +736,12 @@
       "length": 4,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Tartumaa",
       "location": "Elva",
       "description": "Metsarada Elva ürgorus. Vanad männikud ja vaheldusrikas maastik.",
@@ -546,7 +753,11 @@
       "length": 7,
       "type": "edasi-tagasi",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Tartumaa",
       "location": "Emajõe Suursoo",
       "description": "Laudtee läbi suure soo Peipsimaal. Vaatetorn, linnuvaatlus.",
@@ -558,7 +769,12 @@
       "length": 3,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Tartumaa",
       "location": "Vapramäe-Vellavere-Vitipalu",
       "description": "Loodusrada Vapramäe-Vellavere-Vitipalu looduskaitsealal. Mitmekesine maastik.",
@@ -570,7 +786,11 @@
       "length": 4.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Tartumaa",
       "location": "Alatskivi",
       "description": "Loodusrada Alatskivi mõisapargi ümbruses. Peipsi rannik ja metsad.",
@@ -582,7 +802,11 @@
       "length": 5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Pärnumaa",
       "location": "Soomaa rahvuspark",
       "description": "Üks Soomaa populaarsemaid rabaradasid. Laudtee, vaatetorn, loodusõpe.",
@@ -594,7 +818,11 @@
       "length": 12,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Pärnumaa",
       "location": "Soomaa rahvuspark",
       "description": "Pikem matkarada läbi Soomaa rabade ja metsade. Vaatetornid.",
@@ -606,7 +834,11 @@
       "length": 3.8,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Pärnumaa",
       "location": "Soomaa rahvuspark",
       "description": "Lühem rabarada Soomaal. Laudtee ja vaatetorn.",
@@ -618,7 +850,12 @@
       "length": 3,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Pärnumaa",
       "location": "Pärnu",
       "description": "Loodusrada Pärnu rannapargis. Mereäärne maastik ja loodusõpe.",
@@ -630,7 +867,12 @@
       "length": 4,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Pärnumaa",
       "location": "Tori",
       "description": "Loodusrada piki Pärnu jõge. Tori põrgu pangad ja koobad.",
@@ -642,7 +884,11 @@
       "length": 2.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Pärnumaa",
       "location": "Kabli",
       "description": "Kabli linnuvaatluskeskuse juurest algav loodusrada. Mererannik ja mets.",
@@ -654,7 +900,12 @@
       "length": 10,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Viljandimaa",
       "location": "Viljandi",
       "description": "Mitu ringi (2-10 km). Viljandi järve ääres, aastaringne kasutus.",
@@ -666,7 +917,11 @@
       "length": 6,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Viljandimaa",
       "location": "Loodi",
       "description": "Matkarada Loodi looduspargis. Vanad metsad ja looduskaitse.",
@@ -678,7 +933,11 @@
       "length": 4,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Viljandimaa",
       "location": "Soomaa",
       "description": "Laudtee läbi Sookuninga raba. Vaatetorn ja rabamaastik.",
@@ -690,7 +949,12 @@
       "length": 4,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Ida-Virumaa",
       "location": "Ontika",
       "description": "Loodusrada Põhja-Eesti klindirannikul. Eesti kõrgeim klint (56 m), Valaste juga.",
@@ -702,7 +966,11 @@
       "length": 6,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Ida-Virumaa",
       "location": "Alutaguse",
       "description": "Laudtee läbi suure Selisoo raba. Rabasilmad ja vaatetorn.",
@@ -714,7 +982,11 @@
       "length": 8,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Ida-Virumaa",
       "location": "Alutaguse",
       "description": "Pikk rabarada läbi Muraka soostiku. Eesti suurim soomassiiv.",
@@ -726,7 +998,11 @@
       "length": 4,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Ida-Virumaa",
       "location": "Alutaguse",
       "description": "Loodusrada Alutaguse rahvuspargis. Vanad metsad ja jõgi.",
@@ -738,7 +1014,12 @@
       "length": 5,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Ida-Virumaa",
       "location": "Narva-Jõesuu",
       "description": "Terviserada kuurortlinna männimetsas. Mereäärne maastik.",
@@ -750,7 +1031,12 @@
       "length": 3.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Hiiumaa",
       "location": "Kõpu poolsaar",
       "description": "Loodusrada Kõpu poolsaarel. Metsad, luited ja rannik.",
@@ -762,7 +1048,11 @@
       "length": 2.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Hiiumaa",
       "location": "Tihu",
       "description": "Laudtee läbi Tihu soo. Linnuvaatlus ja rabamaastik.",
@@ -774,7 +1064,11 @@
       "length": 5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Hiiumaa",
       "location": "Kassari",
       "description": "Loodusrada Kassari saarel. Rannikuluited ja kadakatihnikud.",
@@ -786,7 +1080,12 @@
       "length": 3,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Hiiumaa",
       "location": "Ristna",
       "description": "Loodusrada Eesti läänetipu juures. Ristna tuletorn ja rannik.",
@@ -798,7 +1097,12 @@
       "length": 1.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Saaremaa",
       "location": "Kaali",
       "description": "Loodusrada Kaali meteoriidikraatrite juures. Geoloogia ja loodusõpe.",
@@ -810,7 +1114,11 @@
       "length": 6,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Saaremaa",
       "location": "Viidumäe",
       "description": "Loodusrada Viidumäe looduskaitsealal. Haruldased taimed ja vanad metsad.",
@@ -822,7 +1130,12 @@
       "length": 4,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Saaremaa",
       "location": "Sõrve poolsaar",
       "description": "Loodusrada Sõrve poolsaarel. Rannik ja tuletorn.",
@@ -834,7 +1147,11 @@
       "length": 2.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Saaremaa",
       "location": "Ohtja",
       "description": "Laudtee läbi Ohtja soo. Linnuvaatlus ja rabamaastik.",
@@ -846,7 +1163,12 @@
       "length": 6,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Saaremaa",
       "location": "Kuressaare",
       "description": "Terviserada Kuressaare ümbruses. Mitu ringi aastaringseks kasutamiseks.",
@@ -858,7 +1180,11 @@
       "length": 4.7,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Lääne-Virumaa",
       "location": "Lahemaa, Oandu",
       "description": "Loodusrada Oandu metskonnas. Vanad metsad ja metsatüüpide õpe.",
@@ -870,7 +1196,12 @@
       "length": 3,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Lääne-Virumaa",
       "location": "Lahemaa, Altja",
       "description": "Loodusrada Altja kalurikülas. Mererannik ja ajaloolised hooned.",
@@ -882,7 +1213,12 @@
       "length": 2,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Lääne-Virumaa",
       "location": "Lahemaa, Sagadi",
       "description": "Loodusrada Sagadi mõisa juures. Metsaonn ja loodusõpe.",
@@ -894,7 +1230,12 @@
       "length": 3.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Lääne-Virumaa",
       "location": "Lahemaa, Palmse",
       "description": "Loodusrada Palmse mõisapargi ümbruses. Pargimaastik ja järved.",
@@ -906,7 +1247,12 @@
       "length": 6,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Lääne-Virumaa",
       "location": "Rakvere",
       "description": "Terviserada Rakvere ümbruses. Mitu ringi aastaringseks kasutamiseks.",
@@ -918,7 +1264,12 @@
       "length": 5,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Läänemaa",
       "location": "Haapsalu",
       "description": "Terviserada Haapsalu linnas. Mereäärne maastik.",
@@ -930,7 +1281,11 @@
       "length": 3,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Läänemaa",
       "location": "Matsalu rahvuspark",
       "description": "Loodusrada Matsalu rahvuspargis. Linnuvaatlus ja rannikumaastik.",
@@ -942,7 +1297,11 @@
       "length": 4,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Läänemaa",
       "location": "Silma",
       "description": "Loodusrada Silma looduskaitsealal. Rannaniidud ja linnuvaatlus.",
@@ -954,7 +1313,12 @@
       "length": 5,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Raplamaa",
       "location": "Rapla",
       "description": "Terviserada Rapla linnas. Mitmekesine metsamaastik.",
@@ -966,7 +1330,11 @@
       "length": 3,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Raplamaa",
       "location": "Märjamaa",
       "description": "Loodusrada Märjamaa ümbruses. Metsad ja sood.",
@@ -978,7 +1346,12 @@
       "length": 7,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Järvamaa",
       "location": "Paide",
       "description": "Terviserada Paide ümbruses. Mitu ringi aastaringseks kasutamiseks.",
@@ -990,7 +1363,11 @@
       "length": 14,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Järvamaa",
       "location": "Kõrvemaa",
       "description": "Pikk matkarada läbi Kõrvemaa metsade ja soode. Ühendab mitut puhkeala.",
@@ -1002,7 +1379,12 @@
       "length": 5,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Jõgevamaa",
       "location": "Jõgeva",
       "description": "Terviserada Jõgeva linnas. Metsarada aastaringseks kasutamiseks.",
@@ -1014,7 +1396,11 @@
       "length": 5.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Jõgevamaa",
       "location": "Endla looduskaitseala",
       "description": "Laudtee läbi Endla soo. Vaatetorn ja rabamaastik.",
@@ -1026,7 +1412,11 @@
       "length": 2.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Raplamaa",
       "location": "Mukri",
       "description": "Rabarada vaatetorniga. Üks populaarsemaid rabaradasid Eestis.",
@@ -1038,7 +1428,12 @@
       "length": 5,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Valgamaa",
       "location": "Tehvandi",
       "description": "Suusarajad ja jooksurajad Tehvandi spordikeskuse juures.",
@@ -1050,7 +1445,11 @@
       "length": 9,
       "type": "lineaarne",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Lahemaa",
       "description": "Ranniku ja metsamaastik Lahemaa rahvuspargis.",
@@ -1062,7 +1461,11 @@
       "length": 4.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Viljandimaa",
       "location": "Soomaa",
       "description": "Raba ja soomaastik laudteel.",
@@ -1074,7 +1477,10 @@
       "length": 10,
       "type": "lineaarne",
       "category": "terviserada",
-      "seasons": ["talv", "suvi"],
+      "seasons": [
+        "talv",
+        "suvi"
+      ],
       "county": "Harjumaa",
       "location": "Neeruti",
       "description": "Suusarajad ja matkarajad Neeruti mägedes.",
@@ -1086,7 +1492,11 @@
       "length": 2,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Võrumaa",
       "location": "Suursoo",
       "description": "Lühike õpperada Võrumaa soodes.",
@@ -1098,7 +1508,11 @@
       "length": 5,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Tartumaa",
       "location": "Tähtvere",
       "description": "Tartu linna terviserada Tähtvere pargis.",
@@ -1110,7 +1524,11 @@
       "length": 3.2,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Hiiumaa",
       "location": "Kärdla",
       "description": "Hiiumaa pealinna lähirajad.",
@@ -1122,7 +1540,11 @@
       "length": 6.5,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Suurupi",
       "description": "Rannikuala ja pank Suurupi poolsaarel.",
@@ -1134,7 +1556,11 @@
       "length": 2.8,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Rummu",
       "description": "Veealune karjäär ja vaatluskohad.",
@@ -1146,7 +1572,11 @@
       "length": 5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Saaremaa",
       "location": "Vilsandi",
       "description": "Vilsandi rahvuspargi loodusrada.",
@@ -1158,7 +1588,11 @@
       "length": 7.5,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Viljandimaa",
       "location": "Õisu",
       "description": "Järveäärne matkarada Õisu mõisa juures.",
@@ -1170,7 +1604,11 @@
       "length": 4,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Lääne-Virumaa",
       "location": "Rabivere",
       "description": "Mets ja raba Lääne-Virumaal.",
@@ -1182,7 +1620,12 @@
       "length": 15,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Kõrvemaa",
       "description": "Pikk matkarada mitme päevaga läbimiseks.",
@@ -1194,7 +1637,11 @@
       "length": 3,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Ida-Virumaa",
       "location": "Viru-Järv",
       "description": "Õpperada järve ääres Ida-Virumaal.",
@@ -1206,7 +1653,11 @@
       "length": 9,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Lääne-Virumaa",
       "location": "Käsmu",
       "description": "Ranniku ja metsarada Käsmu poolsaarel.",
@@ -1218,7 +1669,11 @@
       "length": 4,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Paunküla",
       "description": "Järvede õpperada Paunküla piirkonnas.",
@@ -1230,7 +1685,11 @@
       "length": 22,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Lääne-Virumaa",
       "location": "Lahemaa",
       "description": "Mitmepäevane matkatee läbi Lahemaa rahvuspargi.",
@@ -1242,7 +1701,11 @@
       "length": 5.5,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Kakumäe",
       "description": "Ranniku ja männimets Kakumäel.",
@@ -1254,7 +1717,11 @@
       "length": 4,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Õismäe",
       "description": "Linnajooksu rada Õismäel.",
@@ -1266,7 +1733,11 @@
       "length": 12,
       "type": "lineaarne",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Lahemaa",
       "description": "Ranniku ja metsarada Lahemaal.",
@@ -1278,7 +1749,11 @@
       "length": 7,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Hiiumaa",
       "location": "Kärdla",
       "description": "Ranniku matkarada Hiiumaal.",
@@ -1290,7 +1765,11 @@
       "length": 6,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Viljandimaa",
       "location": "Õisu",
       "description": "Järveäärne matkarada Õisul.",
@@ -1302,7 +1781,11 @@
       "length": 3.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Läänemaa",
       "location": "Matsalu",
       "description": "Linnuvaatlusõpperada Matsalu rahvuspargis.",
@@ -1314,7 +1797,11 @@
       "length": 14,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Lääne-Virumaa",
       "location": "Käsmu",
       "description": "Pikk rannikurada Lahemaal.",
@@ -1326,7 +1813,11 @@
       "length": 5,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Valgamaa",
       "location": "Tõrva",
       "description": "Järveäärne õpperada Tõrvas.",
@@ -1338,7 +1829,11 @@
       "length": 2.5,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Järvamaa",
       "location": "Paide",
       "description": "Linnasüdame terviserada Paides.",
@@ -1350,7 +1845,11 @@
       "length": 16,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Viljandimaa",
       "location": "Soomaa",
       "description": "Soomaa rahvuspargi pikk matkarada.",
@@ -1362,7 +1861,11 @@
       "length": 8,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Saaremaa",
       "location": "Kärla",
       "description": "Pankrannik ja mets Saaremaal.",
@@ -1374,7 +1877,11 @@
       "length": 10,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Viljandimaa",
       "location": "Õhne",
       "description": "Jõeäärne mitmepäevane rada Viljandimaal.",
@@ -1386,7 +1893,11 @@
       "length": 6,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Klooga",
       "description": "Männimetsa rada Klooga lähedal.",
@@ -1398,7 +1909,11 @@
       "length": 4.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Tartumaa",
       "location": "Suurõue",
       "description": "Loodusõpperada Tartumaal.",
@@ -1410,7 +1925,11 @@
       "length": 5,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Järvamaa",
       "location": "Paide",
       "description": "Järveäärne jalutusrada Paides.",
@@ -1422,7 +1941,11 @@
       "length": 11,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Hiiumaa",
       "location": "Kärdla",
       "description": "Pankranniku matk Hiiumaal.",
@@ -1434,7 +1957,11 @@
       "length": 3,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Õismäe",
       "description": "Linnalähedane õpperada Õismäel.",
@@ -1446,7 +1973,11 @@
       "length": 13,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Saaremaa",
       "location": "Vilsandi",
       "description": "Saaremaa saarematk Vilsandil.",
@@ -1458,7 +1989,11 @@
       "length": 2.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Kakerdaja",
       "description": "Laudtee raba läbimiseks Kakerdajal.",
@@ -1470,7 +2005,11 @@
       "length": 9.5,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Paunküla",
       "description": "Järvede ja pankranniku rada Paunkülas.",
@@ -1482,7 +2021,11 @@
       "length": 5,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Tartumaa",
       "location": "Suurõue",
       "description": "Jooksurada ja tervisekeskus Tartumaal.",
@@ -1494,7 +2037,11 @@
       "length": 7,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Läänemaa",
       "location": "Matsalu",
       "description": "Rannik ja linnuvaatlus Matsalus.",
@@ -1506,7 +2053,11 @@
       "length": 3.2,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Viljandimaa",
       "location": "Õhne",
       "description": "Lühike õpperada jõe ääres.",
@@ -1518,7 +2069,11 @@
       "length": 6,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Ida-Virumaa",
       "location": "Kuremäe",
       "description": "Kloostri ümbruse matkarada Alutaguses.",
@@ -1530,7 +2085,11 @@
       "length": 5.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Lahemaa",
       "description": "Rahvuspargi õpperada Lahemaal.",
@@ -1542,7 +2101,11 @@
       "length": 3.8,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Hiiumaa",
       "location": "Kärdla",
       "description": "Kohalik terviserada Kärdlas.",
@@ -1554,7 +2117,11 @@
       "length": 2.7,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Viljandimaa",
       "location": "Õisu",
       "description": "Lühike jalutusrada Õisul.",
@@ -1566,7 +2133,11 @@
       "length": 7,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Kõrvemaa",
       "description": "Õpperada metsas Kõrvemaal.",
@@ -1578,7 +2149,11 @@
       "length": 4.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Järvamaa",
       "location": "Paide",
       "description": "Linnalähedane looduspark Paides.",
@@ -1590,7 +2165,11 @@
       "length": 3.8,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Viljandimaa",
       "location": "Soomaa",
       "description": "Soomaa rahvuspargi õpperada.",
@@ -1602,7 +2181,11 @@
       "length": 10,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Kakerdaja",
       "description": "Pikk matkarada rabas Kakerdajal.",
@@ -1614,7 +2197,11 @@
       "length": 8.5,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Viljandimaa",
       "location": "Õhne",
       "description": "Pankrannik ja mets Õhne jõe ääres.",
@@ -1626,7 +2213,11 @@
       "length": 4.2,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Saaremaa",
       "location": "Vilsandi",
       "description": "Saaremaa õpperada Vilsandi saarel.",
@@ -1638,7 +2229,11 @@
       "length": 3.6,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Paunküla",
       "description": "Lühike loodusõpperada Paunkülas.",
@@ -1650,7 +2245,11 @@
       "length": 2.9,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Kloogaranna",
       "description": "Ranniku õpperada Kloogarannas.",
@@ -1662,7 +2261,11 @@
       "length": 11,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Läänemaa",
       "location": "Matsalu",
       "description": "Linnuvaatlus ja rannik Matsalu rahvuspargis.",
@@ -1674,7 +2277,11 @@
       "length": 1.8,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Õismäe",
       "description": "Lühike perejalutus Õismäel.",
@@ -1686,7 +2293,11 @@
       "length": 3.4,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Hiiumaa",
       "location": "Kärdla",
       "description": "Õpperada ja vaatetorn Kärdlas.",
@@ -1698,7 +2309,11 @@
       "length": 4.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Lääne-Virumaa",
       "location": "Käsmu",
       "description": "Ranniku õpperada Käsmu poolsaarel.",
@@ -1710,7 +2325,11 @@
       "length": 6.2,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Järvamaa",
       "location": "Paide",
       "description": "Pankranniku ja metsarada Paides.",
@@ -1722,7 +2341,11 @@
       "length": 6,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Läänemaa",
       "location": "Haapsalu",
       "description": "Ranniku- ja promenaadirada Haapsalus.",
@@ -1734,7 +2357,11 @@
       "length": 5.5,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Tartumaa",
       "location": "Suurõue",
       "description": "Metsarada ja õpperajad Tartumaal.",
@@ -1746,7 +2373,11 @@
       "length": 7.2,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Ida-Virumaa",
       "location": "Narva",
       "description": "Jõeäärne jalutus- ja matkarada Narvas.",
@@ -1758,7 +2389,11 @@
       "length": 8,
       "type": "lineaarne",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Pärnumaa",
       "location": "Pärnu",
       "description": "Rannapromenaad ja jalgrattatee.",
@@ -1770,7 +2405,11 @@
       "length": 5,
       "type": "lineaarne",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Tartumaa",
       "location": "Tartu",
       "description": "Emajõe äärne jalutus- ja jooksurada.",
@@ -1782,7 +2421,11 @@
       "length": 6.5,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Viljandimaa",
       "location": "Viljandi",
       "description": "Järveäärne matkarada ja vaatetorn.",
@@ -1794,7 +2437,11 @@
       "length": 20,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Saaremaa",
       "location": "Saaremaa",
       "description": "Pikk rannikurada saarel.",
@@ -1806,7 +2453,11 @@
       "length": 12,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Hiiumaa",
       "location": "Hiiumaa",
       "description": "Pankrannik ja mererajad Hiiumaal.",
@@ -1818,7 +2469,11 @@
       "length": 4.8,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Raplamaa",
       "location": "Rapla",
       "description": "Linnalähedane terviserada Raplas.",
@@ -1830,7 +2485,11 @@
       "length": 3.6,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Jõgevamaa",
       "location": "Jõgeva",
       "description": "Õpperada ja metsakäigud Jõgeval.",
@@ -1842,7 +2501,11 @@
       "length": 5,
       "type": "lineaarne",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Ida-Virumaa",
       "location": "Sillamäe",
       "description": "Rannapromenaad ja jalgrattatee Sillamäel.",
@@ -1854,7 +2517,11 @@
       "length": 4.2,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Keila",
       "description": "Metsarada ja õpperajad Keilas.",
@@ -1866,7 +2533,11 @@
       "length": 6,
       "type": "lineaarne",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Pärnumaa",
       "location": "Tõstamaa",
       "description": "Rannaniidu õpperada Pärnumaal.",
@@ -1878,7 +2549,11 @@
       "length": 3,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Võrumaa",
       "location": "Võru",
       "description": "Linnapargi terviserada Võrus.",
@@ -1890,7 +2565,11 @@
       "length": 2.9,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Järvamaa",
       "location": "Paide",
       "description": "Lühike linnaring Paides.",
@@ -1902,7 +2581,11 @@
       "length": 10,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Pirita",
       "description": "Ranniku- ja metsarada Pirital.",
@@ -1914,7 +2597,11 @@
       "length": 3.2,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Pärnumaa",
       "location": "Pärnu",
       "description": "Linnasüdame terviserada Pärnus.",
@@ -1926,7 +2613,11 @@
       "length": 4.5,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Lääne-Virumaa",
       "location": "Rakvere",
       "description": "Park ja linnaring Rakveres.",
@@ -1938,7 +2629,11 @@
       "length": 5.4,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Järvamaa",
       "location": "Türi",
       "description": "Järveäärne jalutusrada Türil.",
@@ -1950,7 +2645,11 @@
       "length": 3.8,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Pärnumaa",
       "location": "Sindi",
       "description": "Linnapargi terviserada Sindis.",
@@ -1962,7 +2661,11 @@
       "length": 6.7,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Läänemaa",
       "location": "Haapsalu",
       "description": "Metsarada ja õpperajad Haapsalus.",
@@ -1974,7 +2677,11 @@
       "length": 4,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Tartumaa",
       "location": "Tartu, Õismäe",
       "description": "Linnalähedane terviserada Tartus.",
@@ -1986,7 +2693,11 @@
       "length": 9,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Pärnumaa",
       "location": "Pärnu",
       "description": "Laheäärne matkatee Pärnus.",
@@ -1998,7 +2709,11 @@
       "length": 7.8,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Lääne-Virumaa",
       "location": "Võsu",
       "description": "Pankrannik ja mets Lahemaal.",
@@ -2010,7 +2725,11 @@
       "length": 5,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Pärnumaa",
       "location": "Sindi",
       "description": "Metsarada ja rannaäär Sindis.",
@@ -2022,7 +2741,11 @@
       "length": 4.6,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Valgamaa",
       "location": "Tõrva",
       "description": "Metsarada ja õpperada Tõrvas.",
@@ -2034,7 +2757,11 @@
       "length": 8.5,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Saaremaa",
       "location": "Kuressaare",
       "description": "Pankrannik ja rannikurada Kuressaares.",
@@ -2046,7 +2773,11 @@
       "length": 3.3,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Ida-Virumaa",
       "location": "Jõhvi",
       "description": "Linnapargi terviserada Jõhvis.",
@@ -2058,7 +2789,11 @@
       "length": 6,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Tartumaa",
       "location": "Suurõue",
       "description": "Pikem loodusõpperada Suurõuel.",
@@ -2070,7 +2805,11 @@
       "length": 5.2,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Järvamaa",
       "location": "Paide",
       "description": "Kohalik matkarada Paides.",
@@ -2082,7 +2821,11 @@
       "length": 7,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Lääne-Virumaa",
       "location": "Sõmeru",
       "description": "Metsarada ja vaatetorn Sõmerul.",
@@ -2094,7 +2837,11 @@
       "length": 9,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Hiiumaa",
       "location": "Kärdla",
       "description": "Pankranniku pikendus Hiiumaal.",
@@ -2106,7 +2853,11 @@
       "length": 3.5,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Kadriorg",
       "description": "Kadrioru pargi jalutus- ja jooksurada.",
@@ -2118,7 +2869,11 @@
       "length": 12,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Pärnumaa",
       "location": "Matsalu",
       "description": "Ühendusrada rannikualade vahel.",
@@ -2130,7 +2885,11 @@
       "length": 3.4,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Võrumaa",
       "location": "Võru",
       "description": "Lühike õpperada Võru linnas.",
@@ -2142,7 +2901,11 @@
       "length": 8,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Nõmme",
       "description": "Metsarada ja suusarajad Nõmmel.",
@@ -2154,7 +2917,11 @@
       "length": 3,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Raplamaa",
       "location": "Rapla",
       "description": "Linnalähedane terviserada Raplas.",
@@ -2166,7 +2933,11 @@
       "length": 2.8,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Tartumaa",
       "location": "Suurõue",
       "description": "Lühike jalutusrada Suurõuel.",
@@ -2178,7 +2949,11 @@
       "length": 5.6,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Pärnumaa",
       "location": "Pärnu",
       "description": "Kaldaäärne matkatee Pärnus.",
@@ -2190,7 +2965,11 @@
       "length": 4.1,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn",
       "description": "Linnahalli ja mereäärne rada.",
@@ -2202,7 +2981,11 @@
       "length": 10,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Võrumaa",
       "location": "Võru",
       "description": "Pankranniku pikem matk Võrumaal.",
@@ -2214,7 +2997,11 @@
       "length": 14,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Tartumaa",
       "location": "Suurõue",
       "description": "Mitmepäevane matkarada Tartumaal.",
@@ -2226,7 +3013,11 @@
       "length": 3.2,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Järvamaa",
       "location": "Paide",
       "description": "Õpperada ja vaatetorn Paides.",
@@ -2238,7 +3029,11 @@
       "length": 10.5,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Lääne-Virumaa",
       "location": "Käsmu",
       "description": "Ranniku pankrannik ja metsarada Käsmul.",
@@ -2250,7 +3045,11 @@
       "length": 5.2,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Õismäe",
       "description": "Metsarada ja õpperajad Õismäel.",
@@ -2262,7 +3061,11 @@
       "length": 3.4,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Klooga",
       "description": "Laudtee ja märgala õpperada.",
@@ -2274,7 +3077,11 @@
       "length": 4.1,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Järvamaa",
       "location": "Paide",
       "description": "Linnaring ja tervisekäik Paides.",
@@ -2286,7 +3093,11 @@
       "length": 11,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Pirita",
       "description": "Pankrannik ja metsarada Pirital.",
@@ -2298,7 +3109,11 @@
       "length": 13,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Pärnumaa",
       "location": "Matsalu",
       "description": "Ühendusrada rannikualade vahel.",
@@ -2310,7 +3125,11 @@
       "length": 2.8,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Lääne-Virumaa",
       "location": "Võsu",
       "description": "Laudtee ja rannikuala õpperada.",
@@ -2322,7 +3141,11 @@
       "length": 12,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Viljandimaa",
       "location": "Õhne",
       "description": "Mitmepäevane jõeäärne matk.",
@@ -2334,7 +3157,11 @@
       "length": 5.6,
       "type": "lineaarne",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Hiiumaa",
       "location": "Kärdla",
       "description": "Rannapromenaad ja jalutusteed Hiiumaal.",
@@ -2346,7 +3173,11 @@
       "length": 9,
       "type": "lineaarne",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Viljandimaa",
       "location": "Soomaa",
       "description": "Soomaa rahvuspargi mitmepäevane rada.",
@@ -2358,7 +3189,11 @@
       "length": 6.2,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Põlvamaa",
       "location": "Taevaskoja",
       "description": "Jõeäärne pankrannik ja kaljud.",
@@ -2370,7 +3205,11 @@
       "length": 15,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Läänemaa",
       "location": "Matsalu",
       "description": "Rannikuala ja linnuvaatlus Matsalus.",
@@ -2382,7 +3221,11 @@
       "length": 2.2,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Kakerdaja",
       "description": "Lühike õpperada rabas.",
@@ -2394,7 +3237,11 @@
       "length": 9.8,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Paunküla",
       "description": "Järvede ja pankranniku matk.",
@@ -2406,7 +3253,11 @@
       "length": 3.1,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Viljandimaa",
       "location": "Õisu",
       "description": "Järveäärne jalutusrada.",
@@ -2418,7 +3269,11 @@
       "length": 20,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Lahemaa",
       "description": "Mitmepäevane rahvuspargi matk.",
@@ -2430,7 +3285,11 @@
       "length": 4.5,
       "type": "lineaarne",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Läänemaa",
       "location": "Haapsalu",
       "description": "Promenaad ja rannikurada.",
@@ -2442,7 +3301,11 @@
       "length": 6,
       "type": "lineaarne",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Tartumaa",
       "location": "Tartu",
       "description": "Emajõe äärne jooksu- ja jalgrattatee.",
@@ -2454,7 +3317,11 @@
       "length": 18,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Saaremaa",
       "location": "Sõrve",
       "description": "Pikk rannikurada Sõrve poolsaarel.",
@@ -2466,7 +3333,11 @@
       "length": 2.6,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Ida-Virumaa",
       "location": "Kuremäe",
       "description": "Kloostri ümbruse lühike õpperada.",
@@ -2478,7 +3349,11 @@
       "length": 3,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Rummu",
       "description": "Karjääri ja veeala vaatlusrada.",
@@ -2490,7 +3365,11 @@
       "length": 7.4,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Kakumäe",
       "description": "Ranniku pank ja metsarada.",
@@ -2502,7 +3381,11 @@
       "length": 3.7,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Järvamaa",
       "location": "Paide",
       "description": "Linnalähedane loodusõpperada.",
@@ -2514,7 +3397,11 @@
       "length": 5,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Valgamaa",
       "location": "Tõrva",
       "description": "Jooksurada ja tervisekeskus.",
@@ -2526,7 +3413,11 @@
       "length": 16,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Saaremaa",
       "location": "Vilsandi",
       "description": "Saaremaa saarematk ja rannik.",
@@ -2538,7 +3429,11 @@
       "length": 3.9,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Ida-Virumaa",
       "location": "Narva",
       "description": "Jõeäärne õpperada ja linnuvaated.",
@@ -2550,7 +3445,11 @@
       "length": 4.4,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Pärnumaa",
       "location": "Pärnu",
       "description": "Kaldaäärne õpperada ja vaatluspunktid.",
@@ -2562,7 +3461,11 @@
       "length": 8.9,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Võrumaa",
       "location": "Võru",
       "description": "Pankrannik ja metsarada.",
@@ -2574,7 +3477,11 @@
       "length": 3.6,
       "type": "lineaarne",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Pärnumaa",
       "location": "Sindi",
       "description": "Rannapromenaad ja jalutusteed.",
@@ -2586,7 +3493,11 @@
       "length": 5.1,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Hiiumaa",
       "location": "Kärdla",
       "description": "Metsarada ja vaatetorn Hiiumaal.",
@@ -2598,7 +3509,11 @@
       "length": 2.9,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Viljandimaa",
       "location": "Õhne",
       "description": "Lühike õpperada jõe ääres.",
@@ -2610,7 +3525,12 @@
       "length": 20,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis", "talv"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
       "county": "Harjumaa",
       "location": "Kõrvemaa",
       "description": "Pikk mitmepäevane matkarada.",
@@ -2622,7 +3542,11 @@
       "length": 3.3,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Paunküla",
       "description": "Lühike terviserada ja õpperada.",
@@ -2634,7 +3558,11 @@
       "length": 9,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Kloogaranna",
       "description": "Ranniku ja männimetsa matk.",
@@ -2646,7 +3574,11 @@
       "length": 12.5,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Läänemaa",
       "location": "Haapsalu",
       "description": "Mitmepäevane rannikumatk.",
@@ -2658,7 +3590,11 @@
       "length": 4.8,
       "type": "ring",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Tartumaa",
       "location": "Tartu",
       "description": "Linnalähedane matkaring.",
@@ -2670,7 +3606,11 @@
       "length": 3,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Läänemaa",
       "location": "Matsalu",
       "description": "Lühike linnuvaatlusõpperada.",
@@ -2682,7 +3622,11 @@
       "length": 11,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Kakerdaja",
       "description": "Pikk rabamatk ja metsarada.",
@@ -2694,7 +3638,11 @@
       "length": 9.2,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Järvamaa",
       "location": "Paide",
       "description": "Mitmepäevane ringmatk ümbruses.",
@@ -2706,7 +3654,11 @@
       "length": 4,
       "type": "ring",
       "category": "loodusrada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Harjumaa",
       "location": "Tallinn, Õismäe",
       "description": "Täiendav loodusõpperada.",
@@ -2718,7 +3670,11 @@
       "length": 7.6,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Saaremaa",
       "location": "Vilsandi",
       "description": "Ühendusrada saare eri osade vahel.",
@@ -2730,7 +3686,11 @@
       "length": 6.7,
       "type": "lineaarne",
       "category": "matkarada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Ida-Virumaa",
       "location": "Narva",
       "description": "Pankrannik ja jõeäärne matk.",
@@ -2742,11 +3702,736 @@
       "length": 2.9,
       "type": "ring",
       "category": "terviserada",
-      "seasons": ["kevad", "suvi", "sügis"],
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
       "county": "Pärnumaa",
       "location": "Pärnu",
       "description": "Kesklinna lühike loodus- ja terviserada.",
       "url": "https://www.parnu.ee/keskus-loodus"
+    },
+    {
+      "id": "lahemaa-pankrada",
+      "name": "Lahemaa pankrada",
+      "length": 13.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Lahemaa",
+      "description": "Pankrannik, mets ja rannikukülad",
+      "url": "https://www.rmk.ee/lahemaa-pankrada"
+    },
+    {
+      "id": "suur-käsmu-ühendus",
+      "name": "Suur Käsmu ühendusrada",
+      "length": 8.5,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Lääne-Virumaa",
+      "location": "Käsmu",
+      "description": "Ranniku ja metsarada ühendus",
+      "url": "https://www.visitestonia.com/et/suur-kasmu-uhendus"
+    },
+    {
+      "id": "õismäe-linnaring",
+      "name": "Õismäe linnaring",
+      "length": 3.2,
+      "type": "ring",
+      "category": "terviserada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Õismäe",
+      "description": "Linnaring parkide ja metsade vahel",
+      "url": "https://www.tallinn.ee/oismae-linnaring"
+    },
+    {
+      "id": "paide-äärne-matk",
+      "name": "Paide ääre matk",
+      "length": 10.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Järvamaa",
+      "location": "Paide",
+      "description": "Paide ümbruse mitmepäevane matk",
+      "url": "https://www.paide.ee/paide-aearne-matk"
+    },
+    {
+      "id": "paunküla-pikem",
+      "name": "Paunküla pikem matk",
+      "length": 14.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Paunküla",
+      "description": "Järvede ja pankranniku pikk ring",
+      "url": "https://www.visitestonia.com/et/paunkula-pikem"
+    },
+    {
+      "id": "suur-soomaa-ühendus",
+      "name": "Soomaa ühendusrada",
+      "length": 12.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Soomaa",
+      "description": "Ühendusrada üle soode ja metsade",
+      "url": "https://www.rmk.ee/soomaa-uhendus"
+    },
+    {
+      "id": "taevaskoja-pikk",
+      "name": "Taevaskoja pikk rada",
+      "length": 9.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Põlvamaa",
+      "location": "Taevaskoja",
+      "description": "Jõeäärsed kaljud ja vaatluspunktid",
+      "url": "https://www.visitestonia.com/et/taevaskoja-pikk"
+    },
+    {
+      "id": "matsalu-pikem-õpper",
+      "name": "Matsalu pikem õpperada",
+      "length": 6.5,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Läänemaa",
+      "location": "Matsalu",
+      "description": "Linnuvaatlus ja rannikualade õpperada",
+      "url": "https://www.visitestonia.com/et/matsalu-pikem-opperada"
+    },
+    {
+      "id": "kloogaranna-ühendus",
+      "name": "Kloogaranna ühendusrada",
+      "length": 11.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kloogaranna",
+      "description": "Ranniku ja männimetsa ühendus",
+      "url": "https://www.visitestonia.com/et/kloogaranna-uhendus"
+    },
+    {
+      "id": "rummu-pikem",
+      "name": "Rummu pikem rada",
+      "length": 5.5,
+      "type": "lineaarne",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Rummu",
+      "description": "Karjääri ja ümbruse matkarada",
+      "url": "https://www.visitestonia.com/et/rummu-pikem"
+    },
+    {
+      "id": "vilsandi-ühendus",
+      "name": "Vilsandi ühendusrada",
+      "length": 9.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Saaremaa",
+      "location": "Vilsandi",
+      "description": "Saaremaa saareosade ühendusrada",
+      "url": "https://www.rmk.ee/vilsandi-uhendus-2"
+    },
+    {
+      "id": "õisu-pikem-õpper",
+      "name": "Õisu pikem õpperada",
+      "length": 5.8,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Õisu",
+      "description": "Järveäärne õpperada ja vaatetorn",
+      "url": "https://www.visitestonia.com/et/oisu-pikem-opperada"
+    },
+    {
+      "id": "kärdla-ühendus",
+      "name": "Kärdla ühendusrada",
+      "length": 10.2,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Hiiumaa",
+      "location": "Kärdla",
+      "description": "Ranniku ja sisemaa ühendusrada",
+      "url": "https://www.visitestonia.com/et/kardla-uhendus"
+    },
+    {
+      "id": "suur-kõrvemaa-ühendus",
+      "name": "Suur Kõrvemaa ühendus",
+      "length": 18.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
+      "county": "Harjumaa",
+      "location": "Kõrvemaa",
+      "description": "Pikk mitmepäevane metsarada",
+      "url": "https://www.visitestonia.com/et/suur-korvemaa-uhendus"
+    },
+    {
+      "id": "paide-loodus-2",
+      "name": "Paide loodusrada 2",
+      "length": 4.2,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Järvamaa",
+      "location": "Paide",
+      "description": "Linnalähedane loodusõpperada",
+      "url": "https://www.paide.ee/paide-loodus-2"
+    },
+    {
+      "id": "suur-vilsandi-õue",
+      "name": "Vilsandi õue ühendus",
+      "length": 6.8,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Saaremaa",
+      "location": "Vilsandi",
+      "description": "Saaremaa saareosade õpperada",
+      "url": "https://www.rmk.ee/vilsandi-oue-2"
+    },
+    {
+      "id": "kakerdaja-pikendus",
+      "name": "Kakerdaja pikendusrada",
+      "length": 7.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kakerdaja",
+      "description": "Pikem rabamatk ja metsaring",
+      "url": "https://www.rmk.ee/kakerdaja-pikendus"
+    },
+    {
+      "id": "paunküla-õpper-2",
+      "name": "Paunküla õpperada 2",
+      "length": 2.8,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Paunküla",
+      "description": "Lühike õpperada järvede ääres",
+      "url": "https://www.visitestonia.com/et/paunkula-opperada-2"
+    },
+    {
+      "id": "suur-matsalu-ühendus",
+      "name": "Matsalu ühendusrada",
+      "length": 13.5,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Läänemaa",
+      "location": "Matsalu",
+      "description": "Rannikualade ja linnuvaatluse ühendus",
+      "url": "https://www.visitestonia.com/et/matsalu-uhendus"
+    },
+    {
+      "id": "õhne-pikendus",
+      "name": "Õhne pikendusrada",
+      "length": 9.6,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Õhne",
+      "description": "Jõeäärne pikem matkaring",
+      "url": "https://www.visitestonia.com/et/ohne-pikendus"
+    },
+    {
+      "id": "kuremäe-pikk",
+      "name": "Kuremäe pikk rada",
+      "length": 7.2,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Ida-Virumaa",
+      "location": "Kuremäe",
+      "description": "Kloostri ümbruse mitmepäevane rada",
+      "url": "https://www.visitestonia.com/et/kuremae-pikk"
+    },
+    {
+      "id": "ranniku-promen",
+      "name": "Ranniku promenaad",
+      "length": 10.0,
+      "type": "lineaarne",
+      "category": "terviserada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Pärnumaa",
+      "location": "Ranniku",
+      "description": "Pikk promenaad rannikualal",
+      "url": "https://www.visitestonia.com/et/ranniku-promen"
+    },
+    {
+      "id": "suur-õue-ühendus",
+      "name": "Suurõue ühendusrada",
+      "length": 16.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Tartumaa",
+      "location": "Suurõue",
+      "description": "Mitmepäevane matk Suurõue piirkonnas",
+      "url": "https://www.tartu.ee/suuroe-uhendus"
+    },
+    {
+      "id": "kakumäe-õpper",
+      "name": "Kakumäe õpperada",
+      "length": 3.6,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kakumäe",
+      "description": "Rannikuõpperada ja vaatluspunktid",
+      "url": "https://www.visitestonia.com/et/kakumae-opperada"
+    },
+    {
+      "id": "paide-pikendus",
+      "name": "Paide pikendusrada",
+      "length": 6.7,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Järvamaa",
+      "location": "Paide",
+      "description": "Paide ümbruse pikem matkaring",
+      "url": "https://www.paide.ee/paide-pikendus"
+    },
+    {
+      "id": "suur-soomaa-pikendus",
+      "name": "Soomaa pikendusrada",
+      "length": 10.5,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Soomaa",
+      "description": "Soomaa rahvuspargi pikem matk",
+      "url": "https://www.rmk.ee/soomaa-pikendus"
+    },
+    {
+      "id": "taevaskoja-õue",
+      "name": "Taevaskoja õue rada",
+      "length": 2.9,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Põlvamaa",
+      "location": "Taevaskoja",
+      "description": "Lühike õpperada kaljude juures",
+      "url": "https://www.visitestonia.com/et/taevaskoja-opperada"
+    },
+    {
+      "id": "matsalu-pikendus",
+      "name": "Matsalu pikendusrada",
+      "length": 8.8,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Läänemaa",
+      "location": "Matsalu",
+      "description": "Rannikuala pikem matkaring",
+      "url": "https://www.visitestonia.com/et/matsalu-pikendus"
+    },
+    {
+      "id": "kloogaranna-õue",
+      "name": "Kloogaranna õue rada",
+      "length": 3.3,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kloogaranna",
+      "description": "Ranniku õpperada ja vaatluspunkt",
+      "url": "https://www.visitestonia.com/et/kloogaranna-oue"
+    },
+    {
+      "id": "rummu-õpper",
+      "name": "Rummu õpperada",
+      "length": 1.9,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Rummu",
+      "description": "Lühike õpperada karjääri ümbruses",
+      "url": "https://www.visitestonia.com/et/rummu-opperada"
+    },
+    {
+      "id": "vilsandi-pikendus",
+      "name": "Vilsandi pikendusrada",
+      "length": 10.1,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Saaremaa",
+      "location": "Vilsandi",
+      "description": "Saaremaa saareosa pikem matk",
+      "url": "https://www.rmk.ee/vilsandi-pikendus"
+    },
+    {
+      "id": "õisu-ühendus",
+      "name": "Õisu ühendusrada",
+      "length": 7.4,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Õisu",
+      "description": "Ühendusrada ümber järve",
+      "url": "https://www.visitestonia.com/et/oisu-uhendus"
+    },
+    {
+      "id": "kärdla-õue-2",
+      "name": "Kärdla õue rada 2",
+      "length": 2.6,
+      "type": "ring",
+      "category": "terviserada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Hiiumaa",
+      "location": "Kärdla",
+      "description": "Lühike linnaring ja terviserada",
+      "url": "https://www.visitestonia.com/et/kardla-oue-2"
+    },
+    {
+      "id": "suur-käsmu-pikendus",
+      "name": "Suur Käsmu pikendus",
+      "length": 6.3,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Lääne-Virumaa",
+      "location": "Käsmu",
+      "description": "Ranniku pikendus ja metsaring",
+      "url": "https://www.visitestonia.com/et/suur-kasmu-pikendus"
+    },
+    {
+      "id": "paunküla-pikendus",
+      "name": "Paunküla pikendus",
+      "length": 5.9,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Paunküla",
+      "description": "Järvede vahel kulgev pikem rada",
+      "url": "https://www.visitestonia.com/et/paunkula-pikendus"
+    },
+    {
+      "id": "suur-lahemaa-õue",
+      "name": "Lahemaa õue rada",
+      "length": 4.6,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Lahemaa",
+      "description": "Rahvuspargi lühike õpperada",
+      "url": "https://www.rmk.ee/lahemaa-oue"
+    },
+    {
+      "id": "kakerdaja-ühendus",
+      "name": "Kakerdaja ühendusrada",
+      "length": 13.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kakerdaja",
+      "description": "Ühendusrada rabast metsa",
+      "url": "https://www.rmk.ee/kakerdaja-uhendus"
+    },
+    {
+      "id": "paide-õue-pikem",
+      "name": "Paide õue pikem rada",
+      "length": 5.5,
+      "type": "ring",
+      "category": "terviserada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Järvamaa",
+      "location": "Paide",
+      "description": "Terviserada ja loodusõpperada",
+      "url": "https://www.paide.ee/paide-oue-pikem"
+    },
+    {
+      "id": "suur-vilsandi-ühendus-2",
+      "name": "Vilsandi ühendus 2",
+      "length": 8.2,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Saaremaa",
+      "location": "Vilsandi",
+      "description": "Saaremaa saartevaheline ühendus",
+      "url": "https://www.rmk.ee/vilsandi-uhendus-2"
+    },
+    {
+      "id": "õhne-ühendus",
+      "name": "Õhne ühendusrada",
+      "length": 11.3,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Õhne",
+      "description": "Jõeäärne ühendusrada ja matkaring",
+      "url": "https://www.visitestonia.com/et/ohne-uhendus"
+    },
+    {
+      "id": "kuremäe-pikendus",
+      "name": "Kuremäe pikendus",
+      "length": 4.4,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Ida-Virumaa",
+      "location": "Kuremäe",
+      "description": "Lühike lisaring kloostri ümbruses",
+      "url": "https://www.visitestonia.com/et/kuremae-pikendus"
+    },
+    {
+      "id": "ranniku-ühendus",
+      "name": "Ranniku ühendusrada",
+      "length": 17.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Pärnumaa",
+      "location": "Ranniku",
+      "description": "Pikk rannikurada mitme päeva jaoks",
+      "url": "https://www.visitestonia.com/et/ranniku-uhendus"
+    },
+    {
+      "id": "suur-õue-pikem",
+      "name": "Suurõue pikem matk",
+      "length": 19.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Tartumaa",
+      "location": "Suurõue",
+      "description": "Mitmepäevane matk Suurõue piirkonnas",
+      "url": "https://www.tartu.ee/suuroe-pikem"
+    },
+    {
+      "id": "kakumäe-pikendus",
+      "name": "Kakumäe pikendus",
+      "length": 6.1,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kakumäe",
+      "description": "Ranniku ja pankranniku pikendus",
+      "url": "https://www.visitestonia.com/et/kakumae-pikendus"
+    },
+    {
+      "id": "paide-õpper-3",
+      "name": "Paide õpperada 3",
+      "length": 2.5,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Järvamaa",
+      "location": "Paide",
+      "description": "Lühike õpperada ja vaatetorn",
+      "url": "https://www.paide.ee/paide-opperada-3"
     }
   ]
 }
