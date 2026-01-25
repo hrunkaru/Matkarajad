@@ -14,6 +14,7 @@ const App = {
         filters: {
             category: 'all',
             length: 'all',
+            type: 'all',
             season: 'all',
             location: 'all',
             completed: 'all'
@@ -293,6 +294,7 @@ const App = {
     applyFilters() {
         this.state.filters.category = document.getElementById('filterCategory')?.value || 'all';
         this.state.filters.length = document.getElementById('filterLength')?.value || 'all';
+        this.state.filters.type = document.getElementById('filterType')?.value || 'all';
         this.state.filters.season = document.getElementById('filterSeason')?.value || 'all';
         this.state.filters.location = document.getElementById('filterLocation')?.value || 'all';
         this.state.filters.completed = document.getElementById('filterCompleted')?.value || 'all';
@@ -317,6 +319,11 @@ const App = {
                     case 'medium': if (length < 3 || length >= 7) return false; break;
                     case 'long': if (length < 7) return false; break;
                 }
+            }
+
+            // Type filter
+            if (this.state.filters.type !== 'all' && trail.type !== this.state.filters.type) {
+                return false;
             }
 
             // Season filter
