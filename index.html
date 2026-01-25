@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Harjumaa Matkarajad</title>
+    <title>Eesti Matkarajad</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <header class="header">
         <div class="container">
-            <h1 class="logo">Harjumaa Matkarajad</h1>
+            <h1 class="logo">Eesti Matkarajad</h1>
             <nav class="nav">
                 <span id="userInfo" class="user-info hidden"></span>
                 <button id="loginBtn" class="btn btn-primary">Logi sisse</button>
@@ -77,6 +77,13 @@
                         <option value="summer">Suvi</option>
                         <option value="autumn">Sügis</option>
                         <option value="winter">Talv</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filterCounty">Maakond</label>
+                    <select id="filterCounty" class="filter-select">
+                        <option value="all">Kõik</option>
                     </select>
                 </div>
 

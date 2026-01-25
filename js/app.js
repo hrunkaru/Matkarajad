@@ -1,5 +1,5 @@
 /**
- * Main application module for Harjumaa Matkarajad
+ * Main application module for Eesti Matkarajad
  */
 const App = {
     state: {
@@ -16,6 +16,7 @@ const App = {
             length: 'all',
             type: 'all',
             season: 'all',
+            county: 'all',
             location: 'all',
             completed: 'all'
         }
@@ -275,6 +276,18 @@ const App = {
      * Render filter dropdowns
      */
     renderFilters() {
+        // Get unique counties
+        const counties = [...new Set(this.state.trails.map(t => t.county).filter(Boolean))].sort();
+        const countySelect = document.getElementById('filterCounty');
+        if (countySelect) {
+            counties.forEach(county => {
+                const option = document.createElement('option');
+                option.value = county;
+                option.textContent = county;
+                countySelect.appendChild(option);
+            });
+        }
+
         // Get unique locations
         const locations = [...new Set(this.state.trails.map(t => t.location))].sort();
         const locationSelect = document.getElementById('filterLocation');
@@ -296,6 +309,7 @@ const App = {
         this.state.filters.length = document.getElementById('filterLength')?.value || 'all';
         this.state.filters.type = document.getElementById('filterType')?.value || 'all';
         this.state.filters.season = document.getElementById('filterSeason')?.value || 'all';
+        this.state.filters.county = document.getElementById('filterCounty')?.value || 'all';
         this.state.filters.location = document.getElementById('filterLocation')?.value || 'all';
         this.state.filters.completed = document.getElementById('filterCompleted')?.value || 'all';
         this.renderTrails();
@@ -331,6 +345,11 @@ const App = {
                 const seasonMap = { 'spring': 'kevad', 'summer': 'suvi', 'autumn': 'sügis', 'winter': 'talv' };
                 const season = seasonMap[this.state.filters.season];
                 if (!trail.seasons.includes(season)) return false;
+            }
+
+            // County filter
+            if (this.state.filters.county !== 'all' && trail.county !== this.state.filters.county) {
+                return false;
             }
 
             // Location filter
