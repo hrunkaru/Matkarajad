@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harjumaa Matkarajad</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">Harjumaa Matkarajad</h1>
+            <nav class="nav">
+                <span id="userInfo" class="user-info hidden"></span>
+                <button id="loginBtn" class="btn btn-primary">Logi sisse</button>
+                <button id="logoutBtn" class="btn hidden">Logi välja</button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <!-- Stats -->
+            <div class="stats">
+                <div class="stat">
+                    <span class="stat-value" id="totalTrails">0</span>
+                    <span class="stat-label">Radasid kokku</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-value" id="filteredTrails">0</span>
+                    <span class="stat-label">Näidatud</span>
+                </div>
+                <div class="stat hidden" id="completedStats">
+                    <span class="stat-value" id="completedTrails">0</span>
+                    <span class="stat-label">Läbitud</span>
+                </div>
+            </div>
+
+            <!-- Filters -->
+            <div class="filters">
+                <div class="filter-group">
+                    <label for="filterCategory">Kategooria</label>
+                    <select id="filterCategory" class="filter-select">
+                        <option value="all">Kõik</option>
+                        <option value="matkarada">Matkarada</option>
+                        <option value="terviserada">Terviserada</option>
+                        <option value="loodusrada">Loodusrada</option>
+                        <option value="õpperada">Õpperada</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filterLength">Pikkus</label>
+                    <select id="filterLength" class="filter-select">
+                        <option value="all">Kõik</option>
+                        <option value="short">Lühike (&lt; 3 km)</option>
+                        <option value="medium">Keskmine (3-7 km)</option>
+                        <option value="long">Pikk (&gt; 7 km)</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filterSeason">Hooaeg</label>
+                    <select id="filterSeason" class="filter-select">
+                        <option value="all">Kõik</option>
+                        <option value="spring">Kevad</option>
+                        <option value="summer">Suvi</option>
+                        <option value="autumn">Sügis</option>
+                        <option value="winter">Talv</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <label for="filterLocation">Asukoht</label>
+                    <select id="filterLocation" class="filter-select">
+                        <option value="all">Kõik</option>
+                    </select>
+                </div>
+
+                <div class="filter-group hidden" id="completedFilterWrapper">
+                    <label for="filterCompleted">Staatus</label>
+                    <select id="filterCompleted" class="filter-select">
+                        <option value="all">Kõik</option>
+                        <option value="completed">Läbitud</option>
+                        <option value="not-completed">Läbimata</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Trails list -->
+            <div id="trailsList" class="trails-list">
+                <!-- Trails will be rendered here -->
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>Andmed: <a href="https://loodusegakoos.ee" target="_blank">RMK</a>, <a href="https://terviserajad.ee" target="_blank">Terviserajad.ee</a></p>
+        </div>
+    </footer>
+
+    <!-- Message container -->
+    <div id="messageContainer" class="message-container"></div>
+
+    <!-- Login Modal -->
+    <div id="loginModal" class="modal">
+        <div class="modal-content">
+            <button class="modal-close">&times;</button>
+
+            <!-- PAT Step -->
+            <div id="patStep">
+                <h2>Logi sisse</h2>
+                <p class="modal-description">
+                    Sisselogimiseks on vajalik GitHub Personal Access Token (PAT).
+                    <a href="https://github.com/settings/tokens?type=beta" target="_blank">Loo token siit</a>.
+                </p>
+                <p class="modal-description">
+                    Token vajab <strong>Contents</strong> õigust (read and write) sellele repositooriumile.
+                </p>
+                <form id="patForm">
+                    <div class="form-group">
+                        <label for="pat">Personal Access Token</label>
+                        <input type="password" id="pat" placeholder="github_pat_..." required>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block">Jätka</button>
+                </form>
+            </div>
+
+            <!-- Password Step -->
+            <div id="passwordStep" class="hidden">
+                <h2>Sisesta parool</h2>
+                <p class="modal-description">
+                    Parool krüpteerib sinu andmed. Kui logid esimest korda sisse, vali uus parool.
+                </p>
+                <form id="passwordForm">
+                    <div class="form-group">
+                        <label for="password">Parool (min 8 tähemärki)</label>
+                        <input type="password" id="password" minlength="8" required>
+                    </div>
+                    <div class="form-group checkbox-group">
+                        <input type="checkbox" id="rememberPassword">
+                        <label for="rememberPassword">Jäta parool meelde selles seadmes</label>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block">Logi sisse</button>
+                </form>
+                <button class="btn btn-link" onclick="GitHubModule.clearPAT(); location.reload();">
+                    Kasuta teist kontot
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Completion Modal -->
+    <div id="completionModal" class="modal">
+        <div class="modal-content">
+            <button class="modal-close">&times;</button>
+            <h2>Märgi rada läbituks</h2>
+            <p class="trail-name-display" id="completionTrailName"></p>
+            <form id="completionForm">
+                <input type="hidden" id="completionTrailId">
+                <div class="form-group">
+                    <label for="completionDate">Kuupäev</label>
+                    <input type="date" id="completionDate" required>
+                </div>
+                <div class="form-group">
+                    <label for="completionComment">Kommentaar (valikuline)</label>
+                    <textarea id="completionComment" rows="3" placeholder="Kuidas läks? Mida märkasid?"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary btn-block">Salvesta</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="js/crypto.js"></script>
+    <script src="js/github.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
