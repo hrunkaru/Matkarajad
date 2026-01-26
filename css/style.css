@@ -376,6 +376,156 @@ body {
     grid-column: 1 / -1;
 }
 
+/* View toggle */
+.view-toggle {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.view-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: var(--color-white);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    cursor: pointer;
+    font-size: 0.9rem;
+    color: var(--color-text-light);
+    transition: all 0.2s;
+}
+
+.view-btn:hover {
+    background: #f5f5f5;
+    color: var(--color-text);
+}
+
+.view-btn.active {
+    background: var(--color-primary);
+    border-color: var(--color-primary);
+    color: var(--color-white);
+}
+
+.view-btn svg {
+    width: 18px;
+    height: 18px;
+}
+
+/* Table view */
+.table-wrapper {
+    overflow-x: auto;
+    background: var(--color-white);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+}
+
+.trails-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+}
+
+.trails-table th,
+.trails-table td {
+    padding: 0.75rem 1rem;
+    text-align: left;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.trails-table th {
+    background: #f8f9fa;
+    font-weight: 600;
+    color: var(--color-text);
+    position: sticky;
+    top: 0;
+    white-space: nowrap;
+}
+
+.trails-table th.sortable {
+    cursor: pointer;
+    user-select: none;
+    transition: background 0.2s;
+}
+
+.trails-table th.sortable:hover {
+    background: #e9ecef;
+}
+
+.trails-table th.sorted {
+    background: #e3f2fd;
+    color: var(--color-primary);
+}
+
+.sort-icon {
+    font-size: 0.7rem;
+    margin-left: 0.3rem;
+}
+
+.trails-table tbody tr {
+    transition: background 0.2s;
+}
+
+.trails-table tbody tr:hover {
+    background: #f8f9fa;
+}
+
+.trails-table tbody tr.completed {
+    background: #f8fff8;
+}
+
+.trails-table tbody tr.completed:hover {
+    background: #f0fff0;
+}
+
+.trail-name-cell {
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    min-width: 200px;
+}
+
+.trail-name-cell .completed-icon {
+    color: var(--color-success);
+    font-weight: bold;
+}
+
+.trail-link-icon {
+    color: var(--color-primary);
+    text-decoration: none;
+    font-size: 0.85rem;
+    opacity: 0.6;
+}
+
+.trail-link-icon:hover {
+    opacity: 1;
+}
+
+.trail-length-cell {
+    font-weight: 500;
+    color: var(--color-primary);
+    white-space: nowrap;
+}
+
+.trail-seasons-cell {
+    font-size: 0.85rem;
+    color: var(--color-text-light);
+}
+
+.trail-actions-cell {
+    white-space: nowrap;
+}
+
+.trail-actions-cell .btn {
+    margin-right: 0.3rem;
+}
+
+.trail-actions-cell .btn:last-child {
+    margin-right: 0;
+}
+
 /* Footer */
 .footer {
     background: var(--color-primary-dark);
@@ -595,5 +745,22 @@ body {
 
     .modal-content {
         padding: 1.5rem;
+    }
+
+    .view-toggle {
+        justify-content: center;
+    }
+
+    .trails-table {
+        font-size: 0.8rem;
+    }
+
+    .trails-table th,
+    .trails-table td {
+        padding: 0.5rem;
+    }
+
+    .trail-name-cell {
+        min-width: 150px;
     }
 }

@@ -19,6 +19,11 @@ const App = {
             county: 'all',
             location: 'all',
             completed: 'all'
+        },
+        viewMode: 'cards', // 'cards' or 'table'
+        sorting: {
+            column: 'name',
+            direction: 'asc' // 'asc' or 'desc'
         }
     },
 
@@ -75,6 +80,10 @@ const App = {
         document.querySelectorAll('.filter-select').forEach(select => {
             select.addEventListener('change', () => this.applyFilters());
         });
+
+        // View toggle
+        document.getElementById('cardViewBtn')?.addEventListener('click', () => this.setViewMode('cards'));
+        document.getElementById('tableViewBtn')?.addEventListener('click', () => this.setViewMode('table'));
 
         // Close modals on outside click
         document.querySelectorAll('.modal').forEach(modal => {
@@ -375,7 +384,7 @@ const App = {
         const container = document.getElementById('trailsList');
         if (!container) return;
 
-        const trails = this.getFilteredTrails();
+        let trails = this.getFilteredTrails();
         const completedCount = this.state.isLoggedIn
             ? Object.keys(this.state.userData.completedTrails).length
             : 0;
@@ -395,9 +404,25 @@ const App = {
             return;
         }
 
-        container.innerHTML = trails.map(trail => this.renderTrailCard(trail)).join('');
+        // Sort trails for table view
+        if (this.state.viewMode === 'table') {
+            trails = this.sortTrails(trails, this.state.sorting.column, this.state.sorting.direction);
+        }
 
-        // Bind trail card events
+        // Render based on view mode
+        if (this.state.viewMode === 'table') {
+            container.innerHTML = this.renderTrailsTable(trails);
+            this.bindTableEvents(container);
+        } else {
+            container.innerHTML = trails.map(trail => this.renderTrailCard(trail)).join('');
+            this.bindCardEvents(container);
+        }
+    },
+
+    /**
+     * Bind events for card view
+     */
+    bindCardEvents(container) {
         container.querySelectorAll('.trail-card').forEach(card => {
             const trailId = card.dataset.trailId;
 
@@ -412,6 +437,39 @@ const App = {
             });
 
             card.querySelector('.remove-btn')?.addEventListener('click', (e) => {
+                e.stopPropagation();
+                this.removeCompletion(trailId);
+            });
+        });
+    },
+
+    /**
+     * Bind events for table view
+     */
+    bindTableEvents(container) {
+        // Sortable headers
+        container.querySelectorAll('th.sortable').forEach(th => {
+            th.addEventListener('click', () => {
+                const column = th.dataset.sort;
+                this.handleSort(column);
+            });
+        });
+
+        // Trail actions
+        container.querySelectorAll('tbody tr').forEach(row => {
+            const trailId = row.dataset.trailId;
+
+            row.querySelector('.mark-complete-btn')?.addEventListener('click', (e) => {
+                e.stopPropagation();
+                this.showCompletionModal(trailId);
+            });
+
+            row.querySelector('.edit-btn')?.addEventListener('click', (e) => {
+                e.stopPropagation();
+                this.showCompletionModal(trailId);
+            });
+
+            row.querySelector('.remove-btn')?.addEventListener('click', (e) => {
                 e.stopPropagation();
                 this.removeCompletion(trailId);
             });
@@ -487,6 +545,168 @@ const App = {
                         `}
                     </div>
                 ` : ''}
+            </div>
+        `;
+    },
+
+    /**
+     * Set view mode (cards or table)
+     */
+    setViewMode(mode) {
+        this.state.viewMode = mode;
+
+        // Update toggle buttons
+        document.getElementById('cardViewBtn')?.classList.toggle('active', mode === 'cards');
+        document.getElementById('tableViewBtn')?.classList.toggle('active', mode === 'table');
+
+        this.renderTrails();
+    },
+
+    /**
+     * Sort trails by column
+     */
+    sortTrails(trails, column, direction) {
+        const sortedTrails = [...trails];
+
+        sortedTrails.sort((a, b) => {
+            let aVal, bVal;
+
+            switch (column) {
+                case 'name':
+                    aVal = a.name.toLowerCase();
+                    bVal = b.name.toLowerCase();
+                    break;
+                case 'length':
+                    aVal = a.length;
+                    bVal = b.length;
+                    break;
+                case 'type':
+                    aVal = a.type;
+                    bVal = b.type;
+                    break;
+                case 'category':
+                    aVal = a.category;
+                    bVal = b.category;
+                    break;
+                case 'seasons':
+                    aVal = a.seasons.length;
+                    bVal = b.seasons.length;
+                    break;
+                case 'location':
+                    aVal = a.location.toLowerCase();
+                    bVal = b.location.toLowerCase();
+                    break;
+                case 'county':
+                    aVal = (a.county || '').toLowerCase();
+                    bVal = (b.county || '').toLowerCase();
+                    break;
+                default:
+                    return 0;
+            }
+
+            if (aVal < bVal) return direction === 'asc' ? -1 : 1;
+            if (aVal > bVal) return direction === 'asc' ? 1 : -1;
+            return 0;
+        });
+
+        return sortedTrails;
+    },
+
+    /**
+     * Handle table header click for sorting
+     */
+    handleSort(column) {
+        if (this.state.sorting.column === column) {
+            // Toggle direction if same column
+            this.state.sorting.direction = this.state.sorting.direction === 'asc' ? 'desc' : 'asc';
+        } else {
+            // New column, default to ascending
+            this.state.sorting.column = column;
+            this.state.sorting.direction = 'asc';
+        }
+        this.renderTrails();
+    },
+
+    /**
+     * Render trails as a table
+     */
+    renderTrailsTable(trails) {
+        const categoryLabels = {
+            'matkarada': 'Matkarada',
+            'terviserada': 'Terviserada',
+            'loodusrada': 'Loodusrada',
+            'õpperada': 'Õpperada'
+        };
+
+        const typeLabels = {
+            'ring': 'Ring',
+            'lineaarne': 'Lineaarne',
+            'edasi-tagasi': 'Edasi-tagasi'
+        };
+
+        const seasonLabels = {
+            'kevad': 'Kevad',
+            'suvi': 'Suvi',
+            'sügis': 'Sügis',
+            'talv': 'Talv'
+        };
+
+        const { column, direction } = this.state.sorting;
+        const sortIcon = direction === 'asc' ? '▲' : '▼';
+
+        const getSortClass = (col) => column === col ? 'sorted' : '';
+        const getSortIcon = (col) => column === col ? ` <span class="sort-icon">${sortIcon}</span>` : '';
+
+        const rows = trails.map(trail => {
+            const isCompleted = this.state.isLoggedIn && this.state.userData.completedTrails[trail.id];
+            const completionData = isCompleted ? this.state.userData.completedTrails[trail.id] : null;
+
+            return `
+                <tr class="${isCompleted ? 'completed' : ''}" data-trail-id="${trail.id}">
+                    <td class="trail-name-cell">
+                        ${isCompleted ? '<span class="completed-icon">✓</span>' : ''}
+                        ${trail.name}
+                        ${trail.url ? `<a href="${trail.url}" target="_blank" rel="noopener" class="trail-link-icon" title="Lisainfo">↗</a>` : ''}
+                    </td>
+                    <td class="trail-length-cell">${trail.length} km</td>
+                    <td><span class="trail-category category-${trail.category}">${categoryLabels[trail.category]}</span></td>
+                    <td>${typeLabels[trail.type]}</td>
+                    <td class="trail-seasons-cell">${trail.seasons.map(s => seasonLabels[s]).join(', ')}</td>
+                    <td>${trail.location}</td>
+                    <td>${trail.county || '-'}</td>
+                    ${this.state.isLoggedIn ? `
+                        <td class="trail-actions-cell">
+                            ${isCompleted ? `
+                                <button class="btn btn-small edit-btn" title="Muuda">Muuda</button>
+                                <button class="btn btn-small btn-danger remove-btn" title="Eemalda">Eemalda</button>
+                            ` : `
+                                <button class="btn btn-small btn-primary mark-complete-btn" title="Märgi tehtuks">Märgi tehtuks</button>
+                            `}
+                        </td>
+                    ` : ''}
+                </tr>
+            `;
+        }).join('');
+
+        return `
+            <div class="table-wrapper">
+                <table class="trails-table">
+                    <thead>
+                        <tr>
+                            <th class="sortable ${getSortClass('name')}" data-sort="name">Nimi${getSortIcon('name')}</th>
+                            <th class="sortable ${getSortClass('length')}" data-sort="length">Pikkus${getSortIcon('length')}</th>
+                            <th class="sortable ${getSortClass('category')}" data-sort="category">Kategooria${getSortIcon('category')}</th>
+                            <th class="sortable ${getSortClass('type')}" data-sort="type">Tüüp${getSortIcon('type')}</th>
+                            <th class="sortable ${getSortClass('seasons')}" data-sort="seasons">Hooajad${getSortIcon('seasons')}</th>
+                            <th class="sortable ${getSortClass('location')}" data-sort="location">Asukoht${getSortIcon('location')}</th>
+                            <th class="sortable ${getSortClass('county')}" data-sort="county">Maakond${getSortIcon('county')}</th>
+                            ${this.state.isLoggedIn ? '<th>Tegevused</th>' : ''}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${rows}
+                    </tbody>
+                </table>
             </div>
         `;
     },
