@@ -9387,6 +9387,743 @@
       "location": "Vilsandi",
       "description": "Saaremaa saartevaheline ühendus 8",
       "url": "https://www.rmk.ee/vilsandi-uhendus-8"
+    },
+    {
+      "id": "paide-keskus-8",
+      "name": "Paide keskrada 8",
+      "length": 3.0,
+      "type": "ring",
+      "category": "terviserada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Järvamaa",
+      "location": "Paide",
+      "description": "Linnaring ja park",
+      "url": "https://www.paide.ee/paide-keskus-8"
+    },
+    {
+      "id": "tallinn-pirita-2",
+      "name": "Pirita matkarada 2",
+      "length": 9.5,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Pirita",
+      "description": "Ranniku ja metsarada",
+      "url": "https://www.tallinn.ee/pirita-2"
+    },
+    {
+      "id": "tartu-emajoe-2",
+      "name": "Tartu Emajõe ääre 2",
+      "length": 6.2,
+      "type": "lineaarne",
+      "category": "terviserada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Tartumaa",
+      "location": "Tartu",
+      "description": "Jooksu- ja jalgrattatee",
+      "url": "https://www.tartu.ee/emajoe-2"
+    },
+    {
+      "id": "pärnu-rannaprom-2",
+      "name": "Pärnu rannapromenaad 2",
+      "length": 7.8,
+      "type": "lineaarne",
+      "category": "terviserada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Pärnumaa",
+      "location": "Pärnu",
+      "description": "Rannapromenaad ja promenaad",
+      "url": "https://www.parnu.ee/rannaprom-2"
+    },
+    {
+      "id": "haapsalu-matk-2",
+      "name": "Haapsalu matkatee 2",
+      "length": 11.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Läänemaa",
+      "location": "Haapsalu",
+      "description": "Rannikuala matk",
+      "url": "https://www.visitestonia.com/et/haapsalu-matk-2"
+    },
+    {
+      "id": "narva-joe-park",
+      "name": "Narva jõepark rada",
+      "length": 5.5,
+      "type": "ring",
+      "category": "terviserada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Ida-Virumaa",
+      "location": "Narva",
+      "description": "Jõeäärne park ja jalutus",
+      "url": "https://www.visitestonia.com/et/narva-joe-park"
+    },
+    {
+      "id": "võru-pank-3",
+      "name": "Võru pankrada 3",
+      "length": 9.8,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Võrumaa",
+      "location": "Võru",
+      "description": "Pankrannik ja mets",
+      "url": "https://www.visitestonia.com/et/voru-pank-3"
+    },
+    {
+      "id": "kuressaare-rand",
+      "name": "Kuressaare rannarada",
+      "length": 6.4,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Saaremaa",
+      "location": "Kuressaare",
+      "description": "Ranniku promenaad ja rand",
+      "url": "https://www.visitestonia.com/et/kuressaare-rand"
+    },
+    {
+      "id": "rakvere-matk",
+      "name": "Rakvere matkarada",
+      "length": 7.2,
+      "type": "ring",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Lääne-Virumaa",
+      "location": "Rakvere",
+      "description": "Linnalähedane metsaring",
+      "url": "https://www.rakvere.ee/matk"
+    },
+    {
+      "id": "jõhvi-pikem",
+      "name": "Jõhvi pikem matk",
+      "length": 10.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Ida-Virumaa",
+      "location": "Jõhvi",
+      "description": "Maakonna matkaring",
+      "url": "https://www.johvi.ee/pikem-matk"
+    },
+    {
+      "id": "tõrva-loodus",
+      "name": "Tõrva loodusrada",
+      "length": 4.6,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Valgamaa",
+      "location": "Tõrva",
+      "description": "Metsarada ja õpperada",
+      "url": "https://www.visitestonia.com/et/torva-loodus"
+    },
+    {
+      "id": "sindi-pikem",
+      "name": "Sindi pikem matk",
+      "length": 8.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Pärnumaa",
+      "location": "Sindi",
+      "description": "Ranniku ja metsarada",
+      "url": "https://www.sindi.ee/pikem-matk"
+    },
+    {
+      "id": "võsu-rand",
+      "name": "Võsu rannarada",
+      "length": 5.9,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Lääne-Virumaa",
+      "location": "Võsu",
+      "description": "Ranniku promenaad ja laudtee",
+      "url": "https://www.visitestonia.com/et/vosu-rand"
+    },
+    {
+      "id": "keila-joa-2",
+      "name": "Keila-Joa pargi rada 2",
+      "length": 3.1,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Keila-Joa",
+      "description": "Pargirada ja juga",
+      "url": "https://www.visitestonia.com/et/keila-joa-2"
+    },
+    {
+      "id": "türi-matk",
+      "name": "Türi matkarada",
+      "length": 6.0,
+      "type": "ring",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Järvamaa",
+      "location": "Türi",
+      "description": "Järveäärne matkaring",
+      "url": "https://www.tyri.ee/matk"
+    },
+    {
+      "id": "viljandi-pikk",
+      "name": "Viljandi pikk matk",
+      "length": 13.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Viljandi",
+      "description": "Maakonna mitmepäevane rada",
+      "url": "https://www.visitestonia.com/et/viljandi-pikk"
+    },
+    {
+      "id": "õismäe-jooks-2",
+      "name": "Õismäe jooksurada 2",
+      "length": 4.2,
+      "type": "ring",
+      "category": "terviserada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Õismäe",
+      "description": "Jooksurada ja tervisekeskus",
+      "url": "https://www.tallinn.ee/oismae-jooks-2"
+    },
+    {
+      "id": "paide-pank-2",
+      "name": "Paide pankrada 2",
+      "length": 6.5,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Järvamaa",
+      "location": "Paide",
+      "description": "Pankranniku ja metsarada",
+      "url": "https://www.paide.ee/pank-2"
+    },
+    {
+      "id": "kloogaranna-park-2",
+      "name": "Kloogaranna park rada 2",
+      "length": 3.4,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kloogaranna",
+      "description": "Ranniku park ja laudtee",
+      "url": "https://www.visitestonia.com/et/kloogaranna-park-2"
+    },
+    {
+      "id": "suur-käsmu-park-2",
+      "name": "Suur Käsmu park 2",
+      "length": 4.0,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Lääne-Virumaa",
+      "location": "Käsmu",
+      "description": "Ranniku õpperada ja park",
+      "url": "https://www.visitestonia.com/et/suur-kasmu-park-2"
+    },
+    {
+      "id": "matsalu-pikem-3",
+      "name": "Matsalu pikem 3",
+      "length": 13.9,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Läänemaa",
+      "location": "Matsalu",
+      "description": "Rannikuala ja linnuvaatlus",
+      "url": "https://www.visitestonia.com/et/matsalu-pikem-3"
+    },
+    {
+      "id": "kakerdaja-loodus-9",
+      "name": "Kakerdaja loodusõpperada 9",
+      "length": 2.9,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kakerdaja",
+      "description": "Laudtee ja vaatetorn",
+      "url": "https://www.rmk.ee/kakerdaja-loodus-9"
+    },
+    {
+      "id": "paunküla-park",
+      "name": "Paunküla park rada",
+      "length": 3.7,
+      "type": "ring",
+      "category": "terviserada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Paunküla",
+      "description": "Park ja terviserada",
+      "url": "https://www.visitestonia.com/et/paunkula-park"
+    },
+    {
+      "id": "rummu-pikem-3",
+      "name": "Rummu pikem 3",
+      "length": 6.8,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Rummu",
+      "description": "Karjääri ja ümbruse matk",
+      "url": "https://www.visitestonia.com/et/rummu-pikem-3"
+    },
+    {
+      "id": "vilsandi-loodus-8",
+      "name": "Vilsandi loodusõpperada 8",
+      "length": 5.1,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Saaremaa",
+      "location": "Vilsandi",
+      "description": "Saaremaa õpperada",
+      "url": "https://www.rmk.ee/vilsandi-loodus-8"
+    },
+    {
+      "id": "õisu-pikem-2",
+      "name": "Õisu pikem 2",
+      "length": 7.1,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Õisu",
+      "description": "Järveäärne matkaring",
+      "url": "https://www.visitestonia.com/et/oisu-pikem-2"
+    },
+    {
+      "id": "kuremäe-park-2",
+      "name": "Kuremäe park rada 2",
+      "length": 2.8,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Ida-Virumaa",
+      "location": "Kuremäe",
+      "description": "Kloostri ümbruse õpperada",
+      "url": "https://www.visitestonia.com/et/kuremae-park-2"
+    },
+    {
+      "id": "sõrve-poolsaar-osa5",
+      "name": "Sõrve poolsaar osa 5",
+      "length": 15.6,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Saaremaa",
+      "location": "Sõrve",
+      "description": "Rannikuala ja pankrannik",
+      "url": "https://www.visitestonia.com/et/sorve-poolsaar-osa5"
+    },
+    {
+      "id": "taevaskoja-loodus-3",
+      "name": "Taevaskoja loodusõpperada 3",
+      "length": 5.7,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Põlvamaa",
+      "location": "Taevaskoja",
+      "description": "Kaljude ja jõeäärne õpperada",
+      "url": "https://www.visitestonia.com/et/taevaskoja-loodus-3"
+    },
+    {
+      "id": "matsalu-ühendus-10",
+      "name": "Matsalu ühendusrada 10",
+      "length": 17.2,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Läänemaa",
+      "location": "Matsalu",
+      "description": "Rannikualade ühendus",
+      "url": "https://www.visitestonia.com/et/matsalu-uhendus-10"
+    },
+    {
+      "id": "kakumäe-loodus-5",
+      "name": "Kakumäe loodusõpperada 5",
+      "length": 3.1,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kakumäe",
+      "description": "Ranniku õpperada ja vaatlus",
+      "url": "https://www.visitestonia.com/et/kakumae-loodus-5"
+    },
+    {
+      "id": "paide-õue-8",
+      "name": "Paide õue rada 8",
+      "length": 4.9,
+      "type": "ring",
+      "category": "terviserada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Järvamaa",
+      "location": "Paide",
+      "description": "Terviserada ja loodusõpperada",
+      "url": "https://www.paide.ee/paide-oue-8"
+    },
+    {
+      "id": "kakerdaja-pikendus-6",
+      "name": "Kakerdaja pikendusrada 6",
+      "length": 12.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kakerdaja",
+      "description": "Rabamatk ja metsaring",
+      "url": "https://www.rmk.ee/kakerdaja-pikendus-6"
+    },
+    {
+      "id": "suur-kõrvemaa-osa4",
+      "name": "Suur Kõrvemaa osa 4",
+      "length": 18.2,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
+      "county": "Harjumaa",
+      "location": "Kõrvemaa",
+      "description": "Metsade ja soode võrgustik",
+      "url": "https://www.rmk.ee/suur-korvemaa-osa4"
+    },
+    {
+      "id": "oandu-ikla-osa6",
+      "name": "Oandu–Ikla osa 6",
+      "length": 16.9,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Lääne-Virumaa",
+      "location": "Ikla",
+      "description": "Lõunapoolne lõik jätkub",
+      "url": "https://www.rmk.ee/oandu-ikla-osa6"
+    },
+    {
+      "id": "paunküla-pikendus-8",
+      "name": "Paunküla pikendusrada 8",
+      "length": 9.1,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Paunküla",
+      "description": "Järvede vaheline pikendus",
+      "url": "https://www.visitestonia.com/et/paunkula-pikendus-8"
+    },
+    {
+      "id": "ranniku-ühendus-9",
+      "name": "Ranniku ühendusrada 9",
+      "length": 29.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Pärnumaa",
+      "location": "Ranniku",
+      "description": "Pikk rannikurada ja ühendused",
+      "url": "https://www.visitestonia.com/et/ranniku-uhendus-9"
+    },
+    {
+      "id": "kloogaranna-loodus-4",
+      "name": "Kloogaranna loodusõpperada 4",
+      "length": 3.9,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kloogaranna",
+      "description": "Laudtee ja rannikuala õpperada",
+      "url": "https://www.visitestonia.com/et/kloogaranna-loodus-4"
+    },
+    {
+      "id": "rummu-loodus-10",
+      "name": "Rummu loodusõpperada 10",
+      "length": 3.6,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Rummu",
+      "description": "Karjääri õpperada ja vaatlus",
+      "url": "https://www.visitestonia.com/et/rummu-loodus-10"
+    },
+    {
+      "id": "vilsandi-ühendus-9",
+      "name": "Vilsandi ühendus 9",
+      "length": 16.8,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Saaremaa",
+      "location": "Vilsandi",
+      "description": "Saaremaa saartevaheline ühendus 9",
+      "url": "https://www.rmk.ee/vilsandi-uhendus-9"
+    },
+    {
+      "id": "õisu-loodus-7",
+      "name": "Õisu loodusõpperada 7",
+      "length": 6.2,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Õisu",
+      "description": "Järveäärne õpperada ja laudtee",
+      "url": "https://www.visitestonia.com/et/oisu-loodus-7"
+    },
+    {
+      "id": "kärdla-pikem-ühendus-5",
+      "name": "Kärdla pikem ühendusrada 5",
+      "length": 14.7,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Hiiumaa",
+      "location": "Kärdla",
+      "description": "Ranniku ja sisemaa ühendus 5",
+      "url": "https://www.visitestonia.com/et/kardla-pikem-uhendus-5"
+    },
+    {
+      "id": "suur-käsmu-loodus-4",
+      "name": "Suur Käsmu loodusõpperada 4",
+      "length": 4.9,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Lääne-Virumaa",
+      "location": "Käsmu",
+      "description": "Ranniku õpperada ja vaatlus",
+      "url": "https://www.visitestonia.com/et/suur-kasmu-loodus-4"
+    },
+    {
+      "id": "paide-loodus-9",
+      "name": "Paide loodusrada 9",
+      "length": 3.9,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Järvamaa",
+      "location": "Paide",
+      "description": "Õpperada ja vaatetorn",
+      "url": "https://www.paide.ee/paide-loodus-9"
+    },
+    {
+      "id": "kakumäe-ühendus-3",
+      "name": "Kakumäe ühendusrada 3",
+      "length": 11.5,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kakumäe",
+      "description": "Ranniku ja pankranniku ühendus 3",
+      "url": "https://www.visitestonia.com/et/kakumae-uhendus-3"
+    },
+    {
+      "id": "suur-matsalu-ühendus-10",
+      "name": "Matsalu ühendusrada 10",
+      "length": 22.5,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Läänemaa",
+      "location": "Matsalu",
+      "description": "Rannikualade ja saarte ühendus 10",
+      "url": "https://www.visitestonia.com/et/matsalu-uhendus-10"
     }
   ]
 }
