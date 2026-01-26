@@ -6692,6 +6692,376 @@
       "location": "Vilsandi",
       "description": "Saaremaa saartevaheline ühendus 5",
       "url": "https://www.rmk.ee/vilsandi-uhendus-5"
+    },
+    {
+      "id": "oandu-ikla-osa1",
+      "name": "Oandu–Ikla osa 1",
+      "length": 18.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Lääne-Virumaa",
+      "location": "Oandu",
+      "description": "Põhiosa Oandu piirkonnast",
+      "url": "https://www.rmk.ee/oandu-ikla-osa1"
+    },
+    {
+      "id": "oandu-ikla-osa2",
+      "name": "Oandu–Ikla osa 2",
+      "length": 20.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Lääne-Virumaa",
+      "location": "Ikla",
+      "description": "Jätk lõunasse",
+      "url": "https://www.rmk.ee/oandu-ikla-osa2"
+    },
+    {
+      "id": "tolkuse-rada",
+      "name": "Tolkuse raba rada",
+      "length": 5.0,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Pärnumaa",
+      "location": "Tolkuse",
+      "description": "Raba ja laudtee",
+      "url": "https://www.rmk.ee/tolkuse-rada"
+    },
+    {
+      "id": "viru-raba-opper",
+      "name": "Viru raba õpperada",
+      "length": 3.5,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Lääne-Virumaa",
+      "location": "Viru raba",
+      "description": "Laudtee ja vaatetorn",
+      "url": "https://www.rmk.ee/viru-raba-opper"
+    },
+    {
+      "id": "paaskula-raba-opper",
+      "name": "Pääsküla raba õpperada",
+      "length": 4.0,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Pääsküla",
+      "description": "Raba laudtee",
+      "url": "https://www.rmk.ee/paaskula-raba"
+    },
+    {
+      "id": "meenikunno",
+      "name": "Meenikunno matkarada",
+      "length": 6.0,
+      "type": "ring",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Põlvamaa",
+      "location": "Meenikunno",
+      "description": "Laudtee ja vaatetorn",
+      "url": "https://www.rmk.ee/meenikunno"
+    },
+    {
+      "id": "lahemaa-peatrail",
+      "name": "Lahemaa peatrail",
+      "length": 12.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Lahemaa",
+      "description": "Rahvuspargi põhiosa",
+      "url": "https://www.rmk.ee/lahemaa-peatrail"
+    },
+    {
+      "id": "oandu-matk",
+      "name": "Oandu matkarada",
+      "length": 8.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Lääne-Virumaa",
+      "location": "Oandu",
+      "description": "Metsarada Lahemaal",
+      "url": "https://www.rmk.ee/oandu-matk"
+    },
+    {
+      "id": "suur-korvemaa",
+      "name": "Suur Kõrvemaa rada",
+      "length": 15.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
+      "county": "Harjumaa",
+      "location": "Kõrvemaa",
+      "description": "Metsade ja soode võrgustik",
+      "url": "https://www.rmk.ee/suur-korvemaa"
+    },
+    {
+      "id": "paunkula",
+      "name": "Paunküla matkarajad",
+      "length": 11.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Paunküla",
+      "description": "Järvede ja pankranniku ring",
+      "url": "https://www.visitestonia.com/et/paunkula"
+    },
+    {
+      "id": "puhajarve",
+      "name": "Pühajärve matkarada",
+      "length": 7.0,
+      "type": "ring",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Valgamaa",
+      "location": "Pühajärve",
+      "description": "Järveäärne rada",
+      "url": "https://www.visitestonia.com/et/puhajarve"
+    },
+    {
+      "id": "tehvandi",
+      "name": "Tehvandi terviserada",
+      "length": 5.0,
+      "type": "ring",
+      "category": "terviserada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
+      "county": "Valgamaa",
+      "location": "Tehvandi",
+      "description": "Spordikeskuse rajad",
+      "url": "https://www.visitestonia.com/et/tehvandi"
+    },
+    {
+      "id": "riisa",
+      "name": "Riisa raba rada",
+      "length": 5.5,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Riisa",
+      "description": "Raba laudtee ja vaatetorn",
+      "url": "https://www.rmk.ee/riisa"
+    },
+    {
+      "id": "matsalu",
+      "name": "Matsalu matkarada",
+      "length": 6.0,
+      "type": "lineaarne",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Läänemaa",
+      "location": "Matsalu",
+      "description": "Linnuvaatlus ja rannik",
+      "url": "https://www.rmk.ee/matsalu"
+    },
+    {
+      "id": "vilsandi",
+      "name": "Vilsandi loodusrada",
+      "length": 5.0,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Saaremaa",
+      "location": "Vilsandi",
+      "description": "Saaremaa looduspark",
+      "url": "https://www.rmk.ee/vilsandi"
+    },
+    {
+      "id": "suur-soomaa",
+      "name": "Soomaa matkarada",
+      "length": 16.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Soomaa",
+      "description": "Soomaa rahvuspargi matkarada",
+      "url": "https://www.rmk.ee/soomaa"
+    },
+    {
+      "id": "taevaskoja",
+      "name": "Taevaskoja matkarada",
+      "length": 4.5,
+      "type": "ring",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Põlvamaa",
+      "location": "Taevaskoja",
+      "description": "Jõeäärsed kaljud",
+      "url": "https://www.visitestonia.com/et/taevaskoja"
+    },
+    {
+      "id": "keila-joa",
+      "name": "Keila-Joa pargi rada",
+      "length": 2.8,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Keila-Joa",
+      "description": "Pargirajad ja juga",
+      "url": "https://www.visitestonia.com/et/keila-joa"
+    },
+    {
+      "id": "paide-park",
+      "name": "Paide park rada",
+      "length": 3.0,
+      "type": "ring",
+      "category": "terviserada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Järvamaa",
+      "location": "Paide",
+      "description": "Linnapargi terviserada",
+      "url": "https://www.paide.ee/park-rada"
+    },
+    {
+      "id": "haapsalu-rand",
+      "name": "Haapsalu rannarada",
+      "length": 6.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Läänemaa",
+      "location": "Haapsalu",
+      "description": "Promenaad ja rannik",
+      "url": "https://www.visitestonia.com/et/haapsalu"
+    },
+    {
+      "id": "narva-joe",
+      "name": "Narva jõeäärne rada",
+      "length": 7.2,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Ida-Virumaa",
+      "location": "Narva",
+      "description": "Jõeäärne jalutusrada",
+      "url": "https://www.visitestonia.com/et/narva-joe"
+    },
+    {
+      "id": "pärnu-promen",
+      "name": "Pärnu promenaad",
+      "length": 8.0,
+      "type": "lineaarne",
+      "category": "terviserada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Pärnumaa",
+      "location": "Pärnu",
+      "description": "Rannapromenaad ja jalgrattatee",
+      "url": "https://www.visitestonia.com/et/parnu-promen"
+    },
+    {
+      "id": "tabasalu",
+      "name": "Tabasalu matkarada",
+      "length": 6.0,
+      "type": "ring",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Tabasalu",
+      "description": "Pankrannik ja mets",
+      "url": "https://www.visitestonia.com/et/tabasalu"
     }
   ]
 }
