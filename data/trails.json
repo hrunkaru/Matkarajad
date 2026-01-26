@@ -4432,6 +4432,791 @@
       "location": "Paide",
       "description": "Lühike õpperada ja vaatetorn",
       "url": "https://www.paide.ee/paide-opperada-3"
+    },
+    {
+      "id": "lahemaa-kalda",
+      "name": "Lahemaa kaldarada",
+      "length": 8.5,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Lahemaa",
+      "description": "Ranniku ja pankrannik",
+      "url": "https://www.rmk.ee/lahemaa-kalda"
+    },
+    {
+      "id": "suur-käsmu-rand",
+      "name": "Suur Käsmu rannikurada",
+      "length": 7.2,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Lääne-Virumaa",
+      "location": "Käsmu",
+      "description": "Ranniku ja metsarada",
+      "url": "https://www.visitestonia.com/et/suur-kasmu-rand"
+    },
+    {
+      "id": "õismäe-pikem-loodus",
+      "name": "Õismäe pikem loodusrada",
+      "length": 6.0,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Õismäe",
+      "description": "Metsaring ja õpperajad",
+      "url": "https://www.tallinn.ee/oismae-pikem-loodus"
+    },
+    {
+      "id": "paide-kalda-äär",
+      "name": "Paide kaldaäärne rada",
+      "length": 5.8,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Järvamaa",
+      "location": "Paide",
+      "description": "Järve- ja kaldaäärne matk",
+      "url": "https://www.paide.ee/paide-kalda-aergne"
+    },
+    {
+      "id": "kakerdaja-õue",
+      "name": "Kakerdaja õue rada",
+      "length": 3.4,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kakerdaja",
+      "description": "Lühike õpperada rabas",
+      "url": "https://www.rmk.ee/kakerdaja-oue"
+    },
+    {
+      "id": "paunküla-pikem-õue",
+      "name": "Paunküla pikem õpperada",
+      "length": 6.4,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Paunküla",
+      "description": "Järvede ja metsade õpperada",
+      "url": "https://www.visitestonia.com/et/paunkula-pikem-opperada"
+    },
+    {
+      "id": "suur-soomaa-rada",
+      "name": "Soomaa suur rada",
+      "length": 21.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Soomaa",
+      "description": "Mitmepäevane soomaa matk",
+      "url": "https://www.rmk.ee/soomaa-suur-rada"
+    },
+    {
+      "id": "matsalu-pikem-ühendus",
+      "name": "Matsalu pikem ühendusrada",
+      "length": 14.2,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Läänemaa",
+      "location": "Matsalu",
+      "description": "Rannikualade ühendusrada",
+      "url": "https://www.visitestonia.com/et/matsalu-pikem-uhendus"
+    },
+    {
+      "id": "kloogaranna-pikem",
+      "name": "Kloogaranna pikem rada",
+      "length": 10.8,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kloogaranna",
+      "description": "Ranniku ja männimetsa matk",
+      "url": "https://www.visitestonia.com/et/kloogaranna-pikem"
+    },
+    {
+      "id": "rummu-loodus",
+      "name": "Rummu loodusõpperada",
+      "length": 2.4,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Rummu",
+      "description": "Karjääri ja veeala õpperada",
+      "url": "https://www.visitestonia.com/et/rummu-loodus"
+    },
+    {
+      "id": "vilsandi-pikk-matk",
+      "name": "Vilsandi pikk matk",
+      "length": 18.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Saaremaa",
+      "location": "Vilsandi",
+      "description": "Saaremaa saareosa mitmepäevane matk",
+      "url": "https://www.rmk.ee/vilsandi-pikk"
+    },
+    {
+      "id": "õisu-loodus-ühendus",
+      "name": "Õisu loodusühendus",
+      "length": 9.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Õisu",
+      "description": "Ühendusrada ümber järvede",
+      "url": "https://www.visitestonia.com/et/oisu-loodus-uhendus"
+    },
+    {
+      "id": "kärdla-pikem-loodus",
+      "name": "Kärdla pikem loodusrada",
+      "length": 6.9,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Hiiumaa",
+      "location": "Kärdla",
+      "description": "Metsarada ja rannikuala õpperada",
+      "url": "https://www.visitestonia.com/et/kardla-pikem-loodus"
+    },
+    {
+      "id": "suur-kõrvemaa-matk",
+      "name": "Suur Kõrvemaa matk",
+      "length": 25.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis",
+        "talv"
+      ],
+      "county": "Harjumaa",
+      "location": "Kõrvemaa",
+      "description": "Pikk mitmepäevane metsamatk",
+      "url": "https://www.visitestonia.com/et/suur-korvemaa-matk"
+    },
+    {
+      "id": "paide-loodus-ühendus",
+      "name": "Paide loodusühendus",
+      "length": 8.3,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Järvamaa",
+      "location": "Paide",
+      "description": "Ühendusrada loodusparkide vahel",
+      "url": "https://www.paide.ee/paide-loodus-uhendus"
+    },
+    {
+      "id": "kakerdaja-loodus",
+      "name": "Kakerdaja loodusõpperada",
+      "length": 1.8,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kakerdaja",
+      "description": "Lühike laudtee ja õpperada",
+      "url": "https://www.rmk.ee/kakerdaja-loodus"
+    },
+    {
+      "id": "paunküla-pankrada",
+      "name": "Paunküla pankrada",
+      "length": 12.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Paunküla",
+      "description": "Pankranniku ja järvede matk",
+      "url": "https://www.visitestonia.com/et/paunkula-pankrada"
+    },
+    {
+      "id": "suur-matsalu-pikk",
+      "name": "Matsalu pikk matk",
+      "length": 19.5,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Läänemaa",
+      "location": "Matsalu",
+      "description": "Rannikuala mitmepäevane matk",
+      "url": "https://www.visitestonia.com/et/matsalu-pikk"
+    },
+    {
+      "id": "õhne-loodus-ühendus",
+      "name": "Õhne loodusühendus",
+      "length": 13.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Õhne",
+      "description": "Jõeäärne ühendusrada ja õpperajad",
+      "url": "https://www.visitestonia.com/et/ohne-loodus-uhendus"
+    },
+    {
+      "id": "kuremäe-pikem-õue",
+      "name": "Kuremäe pikem õpperada",
+      "length": 5.6,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Ida-Virumaa",
+      "location": "Kuremäe",
+      "description": "Kloostri ümbruse pikem õpperada",
+      "url": "https://www.visitestonia.com/et/kuremae-pikem-opperada"
+    },
+    {
+      "id": "ranniku-pikendus",
+      "name": "Ranniku pikendusrada",
+      "length": 22.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Pärnumaa",
+      "location": "Ranniku",
+      "description": "Pikk rannikurada mitme päeva jaoks",
+      "url": "https://www.visitestonia.com/et/ranniku-pikendus"
+    },
+    {
+      "id": "suur-õue-loodus-4",
+      "name": "Suurõue loodusrada 4",
+      "length": 7.0,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Tartumaa",
+      "location": "Suurõue",
+      "description": "Täiendav loodusõpperada",
+      "url": "https://www.tartu.ee/suuroe-loodus-4"
+    },
+    {
+      "id": "kakumäe-loodus",
+      "name": "Kakumäe loodusõpperada",
+      "length": 2.9,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kakumäe",
+      "description": "Rannikuõpperada ja vaatluspunkt",
+      "url": "https://www.visitestonia.com/et/kakumae-loodus"
+    },
+    {
+      "id": "paide-pikem-õue",
+      "name": "Paide pikem õpperada",
+      "length": 6.1,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Järvamaa",
+      "location": "Paide",
+      "description": "Loodusõpperada ja vaatetorn",
+      "url": "https://www.paide.ee/paide-pikem-opperada"
+    },
+    {
+      "id": "suur-soomaa-loodus-2",
+      "name": "Soomaa loodusrada 2",
+      "length": 8.7,
+      "type": "lineaarne",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Soomaa",
+      "description": "Soomaa rahvuspargi pikem õpperada",
+      "url": "https://www.rmk.ee/soomaa-loodus-2"
+    },
+    {
+      "id": "taevaskoja-ühendus",
+      "name": "Taevaskoja ühendusrada",
+      "length": 11.5,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Põlvamaa",
+      "location": "Taevaskoja",
+      "description": "Kaljude ja jõeäärne ühendus",
+      "url": "https://www.visitestonia.com/et/taevaskoja-uhendus"
+    },
+    {
+      "id": "matsalu-õue-2",
+      "name": "Matsalu õue rada 2",
+      "length": 3.2,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Läänemaa",
+      "location": "Matsalu",
+      "description": "Lühike linnuvaatlusõpperada",
+      "url": "https://www.visitestonia.com/et/matsalu-oue-2"
+    },
+    {
+      "id": "kloogaranna-loodus",
+      "name": "Kloogaranna loodusõpperada",
+      "length": 2.5,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kloogaranna",
+      "description": "Ranniku õpperada ja laudtee",
+      "url": "https://www.visitestonia.com/et/kloogaranna-loodus"
+    },
+    {
+      "id": "rummu-ühendus",
+      "name": "Rummu ühendusrada",
+      "length": 7.1,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Rummu",
+      "description": "Ühendusrada karjääri ja ümbruse vahel",
+      "url": "https://www.visitestonia.com/et/rummu-uhendus"
+    },
+    {
+      "id": "vilsandi-õue-3",
+      "name": "Vilsandi õue rada 3",
+      "length": 4.9,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Saaremaa",
+      "location": "Vilsandi",
+      "description": "Saaremaa õpperada ja vaatluspunktid",
+      "url": "https://www.rmk.ee/vilsandi-oue-3"
+    },
+    {
+      "id": "õisu-ühendus-2",
+      "name": "Õisu ühendusrada 2",
+      "length": 8.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Õisu",
+      "description": "Ühendusrada ümber järve ja metsade",
+      "url": "https://www.visitestonia.com/et/oisu-uhendus-2"
+    },
+    {
+      "id": "kärdla-pikendus-2",
+      "name": "Kärdla pikendusrada 2",
+      "length": 5.7,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Hiiumaa",
+      "location": "Kärdla",
+      "description": "Ranniku pikendus ja metsaring",
+      "url": "https://www.visitestonia.com/et/kardla-pikendus-2"
+    },
+    {
+      "id": "suur-käsmu-loodus",
+      "name": "Suur Käsmu loodusõpperada",
+      "length": 3.8,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Lääne-Virumaa",
+      "location": "Käsmu",
+      "description": "Ranniku õpperada ja vaatlus",
+      "url": "https://www.visitestonia.com/et/suur-kasmu-loodus"
+    },
+    {
+      "id": "paide-loodus-3",
+      "name": "Paide loodusrada 3",
+      "length": 2.6,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Järvamaa",
+      "location": "Paide",
+      "description": "Lühike õpperada linnalähedal",
+      "url": "https://www.paide.ee/paide-loodus-3"
+    },
+    {
+      "id": "kakerdaja-ühendus-2",
+      "name": "Kakerdaja ühendusrada 2",
+      "length": 15.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kakerdaja",
+      "description": "Pikk ühendusrada rabast metsa",
+      "url": "https://www.rmk.ee/kakerdaja-uhendus-2"
+    },
+    {
+      "id": "paunküla-õue-3",
+      "name": "Paunküla õue rada 3",
+      "length": 3.1,
+      "type": "ring",
+      "category": "terviserada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Paunküla",
+      "description": "Lühike terviserada ja õpperada",
+      "url": "https://www.visitestonia.com/et/paunkula-oue-3"
+    },
+    {
+      "id": "suur-matsalu-õpper-2",
+      "name": "Matsalu õpperada 2",
+      "length": 4.1,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Läänemaa",
+      "location": "Matsalu",
+      "description": "Linnuvaatlusõpperada ja laudtee",
+      "url": "https://www.visitestonia.com/et/matsalu-opperada-2"
+    },
+    {
+      "id": "õhne-ühendus-2",
+      "name": "Õhne ühendusrada 2",
+      "length": 13.7,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Õhne",
+      "description": "Pikk jõeäärne ühendusrada",
+      "url": "https://www.visitestonia.com/et/ohne-uhendus-2"
+    },
+    {
+      "id": "kuremäe-loodus-2",
+      "name": "Kuremäe loodusõpperada 2",
+      "length": 3.9,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Ida-Virumaa",
+      "location": "Kuremäe",
+      "description": "Täiendav õpperada kloostri ümbruses",
+      "url": "https://www.visitestonia.com/et/kuremae-loodus-2"
+    },
+    {
+      "id": "ranniku-pikendus-2",
+      "name": "Ranniku pikendusrada 2",
+      "length": 19.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Pärnumaa",
+      "location": "Ranniku",
+      "description": "Pikk rannikurada ja ühendused",
+      "url": "https://www.visitestonia.com/et/ranniku-pikendus-2"
+    },
+    {
+      "id": "suur-õue-loodus-5",
+      "name": "Suurõue loodusrada 5",
+      "length": 8.4,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Tartumaa",
+      "location": "Suurõue",
+      "description": "Pikem loodusõpperada ja vaatluspunktid",
+      "url": "https://www.tartu.ee/suuroe-loodus-5"
+    },
+    {
+      "id": "kakumäe-ühendus",
+      "name": "Kakumäe ühendusrada",
+      "length": 9.3,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kakumäe",
+      "description": "Ranniku ja pankranniku ühendus",
+      "url": "https://www.visitestonia.com/et/kakumae-uhendus"
+    },
+    {
+      "id": "paide-pikem-loodus",
+      "name": "Paide pikem loodusrada",
+      "length": 7.8,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Järvamaa",
+      "location": "Paide",
+      "description": "Loodus- ja matkarada ümbruses",
+      "url": "https://www.paide.ee/paide-pikem-loodus"
+    },
+    {
+      "id": "suur-soomaa-ühendus-2",
+      "name": "Soomaa ühendusrada 2",
+      "length": 14.5,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Viljandimaa",
+      "location": "Soomaa",
+      "description": "Pikem ühendusrada soode ja metsade vahel",
+      "url": "https://www.rmk.ee/soomaa-uhendus-2"
+    },
+    {
+      "id": "taevaskoja-loodus",
+      "name": "Taevaskoja loodusõpperada",
+      "length": 4.4,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Põlvamaa",
+      "location": "Taevaskoja",
+      "description": "Õpperada kaljude ja jõe ääres",
+      "url": "https://www.visitestonia.com/et/taevaskoja-loodus"
+    },
+    {
+      "id": "matsalu-ühendus-2",
+      "name": "Matsalu ühendusrada 2",
+      "length": 16.0,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Läänemaa",
+      "location": "Matsalu",
+      "description": "Rannikualade ja saarte ühendus",
+      "url": "https://www.visitestonia.com/et/matsalu-uhendus-2"
+    },
+    {
+      "id": "kloogaranna-loodus-2",
+      "name": "Kloogaranna loodusõpperada 2",
+      "length": 3.7,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Kloogaranna",
+      "description": "Laudtee ja rannikuala õpperada",
+      "url": "https://www.visitestonia.com/et/kloogaranna-loodus-2"
+    },
+    {
+      "id": "rummu-pikem-õue",
+      "name": "Rummu pikem õpperada",
+      "length": 4.8,
+      "type": "ring",
+      "category": "loodusrada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Harjumaa",
+      "location": "Rummu",
+      "description": "Pikem õpperada karjääri ümbruses",
+      "url": "https://www.visitestonia.com/et/rummu-pikem-opperada"
+    },
+    {
+      "id": "vilsandi-ühendus-3",
+      "name": "Vilsandi ühendus 3",
+      "length": 11.4,
+      "type": "lineaarne",
+      "category": "matkarada",
+      "seasons": [
+        "kevad",
+        "suvi",
+        "sügis"
+      ],
+      "county": "Saaremaa",
+      "location": "Vilsandi",
+      "description": "Saaremaa saartevaheline ühendus 3",
+      "url": "https://www.rmk.ee/vilsandi-uhendus-3"
     }
   ]
 }
