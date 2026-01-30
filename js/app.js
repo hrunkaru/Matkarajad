@@ -559,6 +559,9 @@ const App = {
         document.getElementById('cardViewBtn')?.classList.toggle('active', mode === 'cards');
         document.getElementById('tableViewBtn')?.classList.toggle('active', mode === 'table');
 
+        // Update body class for full-width table view
+        document.body.classList.toggle('table-view-active', mode === 'table');
+
         this.renderTrails();
     },
 
