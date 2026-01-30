@@ -414,6 +414,11 @@ body {
 }
 
 /* Table view */
+body.table-view-active .main .container {
+    max-width: 100%;
+    padding: 0 2rem;
+}
+
 .table-wrapper {
     overflow-x: auto;
     background: var(--color-white);
